@@ -1,0 +1,13 @@
+{
+  "fields": [
+    "indicator",
+    "type",
+    "source",
+    "first_seen",
+    "last_seen",
+    "country",
+    "asn",
+    "score",
+    "metadata"
+  ]
+}

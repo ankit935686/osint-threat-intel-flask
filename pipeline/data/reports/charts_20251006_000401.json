@@ -1,0 +1,24 @@
+{
+  "risk_distribution": {
+    "high_risk_count": 0,
+    "medium_risk_count": 0,
+    "low_risk_count": 636,
+    "info_count": 0
+  },
+  "indicator_types": {
+    "hash_sha256": 289,
+    "hash_md5": 143,
+    "hash_sha1": 132,
+    "domain": 54,
+    "url": 10,
+    "unknown": 8
+  },
+  "geo_distribution": {},
+  "score_ranges": {
+    "0-20": 0,
+    "21-40": 0,
+    "41-60": 0,
+    "61-80": 0,
+    "81-100": 0
+  }
+}

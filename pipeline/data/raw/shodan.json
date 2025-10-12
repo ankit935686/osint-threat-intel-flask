@@ -1,0 +1,16 @@
+{
+  "matches": [
+    {
+      "ip_str": "8.8.8.8",
+      "port": 53,
+      "org": "Google LLC",
+      "data": "DNS service"
+    },
+    {
+      "ip_str": "45.77.12.1",
+      "port": 80,
+      "org": "Unknown",
+      "data": "HTTP server hosting badexample.ru"
+    }
+  ]
+}

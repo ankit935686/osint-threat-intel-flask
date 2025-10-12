@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OSINT Threat Intelligence Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🛡️ OSINT Threat Intelligence Dashboard</h1>
+            <p>Real-time threat intelligence from multiple sources</p>
+        </header>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h3>Total Indicators</h3>
+                <div id="total-indicators" class="stat-number">0</div>
+            </div>
+            <div class="stat-card">
+                <h3>High Risk</h3>
+                <div id="high-risk" class="stat-number risk-high">0</div>
+            </div>
+            <div class="stat-card">
+                <h3>Sources</h3>
+                <div id="total-sources" class="stat-number">0</div>
+            </div>
+            <div class="stat-card">
+                <h3>Last Updated</h3>
+                <div id="last-updated" class="stat-number">Never</div>
+            </div>
+        </div>
+
+        <div class="charts-row">
+            <div class="chart-container">
+                <h3>Threat Score Distribution</h3>
+                <div id="score-chart"></div>
+            </div>
+            <div class="chart-container">
+                <h3>Indicator Types</h3>
+                <div id="type-chart"></div>
+            </div>
+        </div>
+
+        <div class="threat-list">
+            <h3>Top Threats</h3>
+            <div id="threat-table">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Indicator</th>
+                            <th>Type</th>
+                            <th>Risk Level</th>
+                            <th>Score</th>
+                            <th>Sources</th>
+                            <th>Last Seen</th>
+                        </tr>
+                    </thead>
+                    <tbody id="threat-table-body">
+                        <!-- Populated by JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="section-header">
+            <h2>Source-Specific Analysis</h2>
+            <p>Detailed breakdown of threat intelligence by source</p>
+        </div>
+        
+        <div class="source-metrics-container" id="source-metrics-container">
+            <!-- Populated by JavaScript -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+This is a demo OSINT pipeline. Add real API keys in pipeline/config/api_keys.json and adjust collectors to hit real endpoints.
