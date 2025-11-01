@@ -1,0 +1,4856 @@
+[
+  {
+    "results": [
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-yieldbasis.app",
+          "apexDomain": "claim-yieldbasis.app",
+          "time": "2025-10-12T15:54:54.620Z",
+          "uuid": "0199d921-b753-714a-863a-4277b07fbbb2",
+          "url": "https://claim-yieldbasis.app/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 3,
+          "dataLength": 5233704,
+          "encodedDataLength": 4594096,
+          "requests": 47
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Yield Basis",
+          "url": "https://claim-yieldbasis.app/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 2,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T15:04:27.000Z",
+          "domain": "claim-yieldbasis.app",
+          "apexDomain": "claim-yieldbasis.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d921-b753-714a-863a-4277b07fbbb2",
+        "_score": null,
+        "sort": [
+          1760284494620,
+          "0199d921-b753-714a-863a-4277b07fbbb2"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d921-b753-714a-863a-4277b07fbbb2/",
+        "screenshot": "https://urlscan.io/screenshots/0199d921-b753-714a-863a-4277b07fbbb2.png"
+      },
+      {
+        "task": {
+          "visibility": "public",
+          "method": "automatic",
+          "domain": "claim-monad.app",
+          "apexDomain": "claim-monad.app",
+          "time": "2025-10-12T15:40:47.941Z",
+          "source": "certstream-suspicious",
+          "uuid": "0199d914-c83d-7152-8569-e5c4fc25cd9a",
+          "url": "https://claim-monad.app/"
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 4,
+          "dataLength": 7611654,
+          "encodedDataLength": 7023717,
+          "requests": 74
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 0,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Monad Testnet: Test, Play and Build on Monad Testnet",
+          "url": "https://claim-monad.app/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 0,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-12T14:40:28.000Z",
+          "domain": "claim-monad.app",
+          "apexDomain": "claim-monad.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R12",
+          "status": "200"
+        },
+        "_id": "0199d914-c83d-7152-8569-e5c4fc25cd9a",
+        "_score": null,
+        "sort": [
+          1760283647941,
+          "0199d914-c83d-7152-8569-e5c4fc25cd9a"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d914-c83d-7152-8569-e5c4fc25cd9a/",
+        "screenshot": "https://urlscan.io/screenshots/0199d914-c83d-7152-8569-e5c4fc25cd9a.png"
+      },
+      {
+        "task": {
+          "visibility": "public",
+          "method": "manual",
+          "domain": "nextalone.xyz",
+          "apexDomain": "nextalone.xyz",
+          "time": "2025-10-12T14:41:40.650Z",
+          "uuid": "0199d8de-ab8c-76a3-b09e-801c8d5d90a5",
+          "url": "https://nextalone.xyz/"
+        },
+        "stats": {
+          "uniqIPs": 16,
+          "uniqCountries": 2,
+          "dataLength": 943670,
+          "encodedDataLength": 936508,
+          "requests": 19
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 1451,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | nextalone.xyz | Cloudflare",
+          "url": "https://nextalone.xyz/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 44,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 1451,
+          "tlsValidFrom": "2025-08-28T19:26:40.000Z",
+          "domain": "nextalone.xyz",
+          "apexDomain": "nextalone.xyz",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d8de-ab8c-76a3-b09e-801c8d5d90a5",
+        "_score": null,
+        "sort": [
+          1760280100650,
+          "0199d8de-ab8c-76a3-b09e-801c8d5d90a5"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d8de-ab8c-76a3-b09e-801c8d5d90a5/",
+        "screenshot": "https://urlscan.io/screenshots/0199d8de-ab8c-76a3-b09e-801c8d5d90a5.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "pokex.co",
+          "apexDomain": "pokex.co",
+          "time": "2025-10-12T14:25:30.750Z",
+          "uuid": "0199d8cf-d477-736a-b98e-1ddb5ebc211e",
+          "url": "http://pokex.co/"
+        },
+        "stats": {
+          "uniqIPs": 26,
+          "uniqCountries": 4,
+          "dataLength": 34171390,
+          "encodedDataLength": 21555233,
+          "requests": 332
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.96.3",
+          "apexDomainAgeDays": 2743,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "\u2b50 PokeXperience \u2b50",
+          "url": "https://pokexperience.com/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 29,
+          "domainAgeDays": 2743,
+          "tlsValidFrom": "2025-09-12T23:23:22.000Z",
+          "domain": "pokexperience.com",
+          "apexDomain": "pokexperience.com",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d8cf-d477-736a-b98e-1ddb5ebc211e",
+        "_score": null,
+        "sort": [
+          1760279130750,
+          "0199d8cf-d477-736a-b98e-1ddb5ebc211e"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d8cf-d477-736a-b98e-1ddb5ebc211e/",
+        "screenshot": "https://urlscan.io/screenshots/0199d8cf-d477-736a-b98e-1ddb5ebc211e.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app",
+          "apexDomain": "ic0.app",
+          "time": "2025-10-12T13:29:03.231Z",
+          "uuid": "0199d89c-0086-74f9-8217-c1504f421347",
+          "url": "http://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/"
+        },
+        "stats": {
+          "uniqIPs": 32,
+          "uniqCountries": 6,
+          "dataLength": 17077812,
+          "encodedDataLength": 5780056,
+          "requests": 143
+        },
+        "page": {
+          "country": "CH",
+          "redirected": "off-domain",
+          "ip": "212.71.124.188",
+          "apexDomainAgeDays": 1101,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "DSCVR - The Social Home of Web3",
+          "url": "https://h5aet-waaaa-aaaab-qaamq-cai.icp0.io/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 40,
+          "domainAgeDays": 740,
+          "tlsValidFrom": "2025-09-02T12:02:53.000Z",
+          "domain": "h5aet-waaaa-aaaab-qaamq-cai.icp0.io",
+          "apexDomain": "icp0.io",
+          "asnname": "EVERYWARE-NET EveryWare AG, CH",
+          "asn": "AS24951",
+          "tlsIssuer": "E7",
+          "status": "200"
+        },
+        "_id": "0199d89c-0086-74f9-8217-c1504f421347",
+        "_score": null,
+        "sort": [
+          1760275743231,
+          "0199d89c-0086-74f9-8217-c1504f421347"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d89c-0086-74f9-8217-c1504f421347/",
+        "screenshot": "https://urlscan.io/screenshots/0199d89c-0086-74f9-8217-c1504f421347.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-yieldbasis.app",
+          "apexDomain": "claim-yieldbasis.app",
+          "time": "2025-10-12T12:41:47.698Z",
+          "uuid": "0199d870-eadf-72ed-8b2a-36972f176907",
+          "url": "https://claim-yieldbasis.app/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 4,
+          "dataLength": 5234234,
+          "encodedDataLength": 4593714,
+          "requests": 47
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Yield Basis",
+          "url": "https://claim-yieldbasis.app/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 1,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T15:04:27.000Z",
+          "domain": "claim-yieldbasis.app",
+          "apexDomain": "claim-yieldbasis.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d870-eadf-72ed-8b2a-36972f176907",
+        "_score": null,
+        "sort": [
+          1760272907698,
+          "0199d870-eadf-72ed-8b2a-36972f176907"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d870-eadf-72ed-8b2a-36972f176907/",
+        "screenshot": "https://urlscan.io/screenshots/0199d870-eadf-72ed-8b2a-36972f176907.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-yieldbasis.app",
+          "apexDomain": "claim-yieldbasis.app",
+          "time": "2025-10-12T12:28:46.810Z",
+          "uuid": "0199d864-fee9-73e7-bdba-93604373f8ab",
+          "url": "https://claim-yieldbasis.app/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 3,
+          "dataLength": 5233703,
+          "encodedDataLength": 4594090,
+          "requests": 47
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Yield Basis",
+          "url": "https://claim-yieldbasis.app/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 1,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T15:04:27.000Z",
+          "domain": "claim-yieldbasis.app",
+          "apexDomain": "claim-yieldbasis.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d864-fee9-73e7-bdba-93604373f8ab",
+        "_score": null,
+        "sort": [
+          1760272126810,
+          "0199d864-fee9-73e7-bdba-93604373f8ab"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d864-fee9-73e7-bdba-93604373f8ab/",
+        "screenshot": "https://urlscan.io/screenshots/0199d864-fee9-73e7-bdba-93604373f8ab.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-evaaprotocol.app",
+          "apexDomain": "claim-evaaprotocol.app",
+          "time": "2025-10-12T12:28:46.664Z",
+          "uuid": "0199d864-fb90-710a-8793-6b48819e5c58",
+          "url": "https://claim-evaaprotocol.app/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 3,
+          "dataLength": 4452178,
+          "encodedDataLength": 3855986,
+          "requests": 22
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "EVAA - The first decentralized lending protocol on TON",
+          "url": "https://claim-evaaprotocol.app/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 2,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 2,
+          "tlsValidFrom": "2025-10-09T12:59:52.000Z",
+          "domain": "claim-evaaprotocol.app",
+          "apexDomain": "claim-evaaprotocol.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d864-fb90-710a-8793-6b48819e5c58",
+        "_score": null,
+        "sort": [
+          1760272126664,
+          "0199d864-fb90-710a-8793-6b48819e5c58"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d864-fb90-710a-8793-6b48819e5c58/",
+        "screenshot": "https://urlscan.io/screenshots/0199d864-fb90-710a-8793-6b48819e5c58.png"
+      },
+      {
+        "task": {
+          "visibility": "public",
+          "method": "automatic",
+          "domain": "d-wallet-v4.app",
+          "apexDomain": "d-wallet-v4.app",
+          "time": "2025-10-12T11:54:19.487Z",
+          "source": "certstream-suspicious",
+          "uuid": "0199d845-07ce-704a-a719-19a325a40390",
+          "url": "https://d-wallet-v4.app/"
+        },
+        "stats": {
+          "uniqIPs": 13,
+          "uniqCountries": 1,
+          "dataLength": 23349471,
+          "encodedDataLength": 6958967,
+          "requests": 93
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "172.67.190.63",
+          "apexDomainAgeDays": 0,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Aave - Open Source Liquidity Protocol",
+          "url": "https://d-wallet-v4.app/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 0,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-12T10:51:55.000Z",
+          "domain": "d-wallet-v4.app",
+          "apexDomain": "d-wallet-v4.app",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d845-07ce-704a-a719-19a325a40390",
+        "_score": null,
+        "sort": [
+          1760270059487,
+          "0199d845-07ce-704a-a719-19a325a40390"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d845-07ce-704a-a719-19a325a40390/",
+        "screenshot": "https://urlscan.io/screenshots/0199d845-07ce-704a-a719-19a325a40390.png"
+      },
+      {
+        "task": {
+          "visibility": "public",
+          "method": "manual",
+          "domain": "beverly4000.zapto.org",
+          "apexDomain": "beverly4000.zapto.org",
+          "time": "2025-10-12T10:43:43.358Z",
+          "uuid": "0199d804-cd66-761d-80eb-92715f5bd87b",
+          "url": "http://beverly4000.zapto.org/"
+        },
+        "stats": {
+          "uniqIPs": 1,
+          "uniqCountries": 1,
+          "dataLength": 1106,
+          "encodedDataLength": 1266,
+          "requests": 2
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 96,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "403 Forbidden",
+          "url": "https://beverly4000.zapto.org/",
+          "tlsValidDays": 384,
+          "tlsAgeDays": 283,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 96,
+          "tlsValidFrom": "2025-01-02T00:00:00.000Z",
+          "domain": "beverly4000.zapto.org",
+          "apexDomain": "beverly4000.zapto.org",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+          "status": "403"
+        },
+        "_id": "0199d804-cd66-761d-80eb-92715f5bd87b",
+        "_score": null,
+        "sort": [
+          1760265823358,
+          "0199d804-cd66-761d-80eb-92715f5bd87b"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d804-cd66-761d-80eb-92715f5bd87b/",
+        "screenshot": "https://urlscan.io/screenshots/0199d804-cd66-761d-80eb-92715f5bd87b.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "mail.page.case-referency.com",
+          "apexDomain": "case-referency.com",
+          "time": "2025-10-12T09:44:01.777Z",
+          "uuid": "0199d7ce-2c9e-706e-91e0-7aeb4bbb8081",
+          "url": "https://mail.page.case-referency.com/index.php"
+        },
+        "stats": {
+          "uniqIPs": 1,
+          "uniqCountries": 1,
+          "dataLength": 1106,
+          "encodedDataLength": 1242,
+          "requests": 2
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 387,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "403 Forbidden",
+          "url": "https://mail.page.case-referency.com/index.php",
+          "tlsValidDays": 384,
+          "tlsAgeDays": 283,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 387,
+          "tlsValidFrom": "2025-01-02T00:00:00.000Z",
+          "domain": "mail.page.case-referency.com",
+          "apexDomain": "case-referency.com",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+          "status": "403"
+        },
+        "_id": "0199d7ce-2c9e-706e-91e0-7aeb4bbb8081",
+        "_score": null,
+        "sort": [
+          1760262241777,
+          "0199d7ce-2c9e-706e-91e0-7aeb4bbb8081"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d7ce-2c9e-706e-91e0-7aeb4bbb8081/",
+        "screenshot": "https://urlscan.io/screenshots/0199d7ce-2c9e-706e-91e0-7aeb4bbb8081.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-grass.app",
+          "apexDomain": "claim-grass.app",
+          "time": "2025-10-12T09:21:37.686Z",
+          "uuid": "0199d7b9-7a38-710a-a1c4-6d8713f1e5de",
+          "url": "https://claim-grass.app/"
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 3,
+          "dataLength": 7500796,
+          "encodedDataLength": 6905815,
+          "requests": 28
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Get rewarded for the internet you don't use",
+          "url": "https://claim-grass.app/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 2,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 2,
+          "tlsValidFrom": "2025-10-09T13:38:30.000Z",
+          "domain": "claim-grass.app",
+          "apexDomain": "claim-grass.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d7b9-7a38-710a-a1c4-6d8713f1e5de",
+        "_score": null,
+        "sort": [
+          1760260897686,
+          "0199d7b9-7a38-710a-a1c4-6d8713f1e5de"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d7b9-7a38-710a-a1c4-6d8713f1e5de/",
+        "screenshot": "https://urlscan.io/screenshots/0199d7b9-7a38-710a-a1c4-6d8713f1e5de.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-evaaprotocol.app",
+          "apexDomain": "claim-evaaprotocol.app",
+          "time": "2025-10-12T09:20:58.366Z",
+          "uuid": "0199d7b8-fcf9-7499-9d45-70cf981e538d",
+          "url": "https://claim-evaaprotocol.app/"
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 3,
+          "dataLength": 4452202,
+          "encodedDataLength": 3855549,
+          "requests": 22
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "EVAA - The first decentralized lending protocol on TON",
+          "url": "https://claim-evaaprotocol.app/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 2,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 2,
+          "tlsValidFrom": "2025-10-09T12:59:52.000Z",
+          "domain": "claim-evaaprotocol.app",
+          "apexDomain": "claim-evaaprotocol.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d7b8-fcf9-7499-9d45-70cf981e538d",
+        "_score": null,
+        "sort": [
+          1760260858366,
+          "0199d7b8-fcf9-7499-9d45-70cf981e538d"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d7b8-fcf9-7499-9d45-70cf981e538d/",
+        "screenshot": "https://urlscan.io/screenshots/0199d7b8-fcf9-7499-9d45-70cf981e538d.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-walrus.app",
+          "apexDomain": "claim-walrus.app",
+          "time": "2025-10-12T09:20:57.251Z",
+          "uuid": "0199d7b9-0ae3-76a3-9878-749636b89138",
+          "url": "https://claim-walrus.app/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 3,
+          "dataLength": 4315923,
+          "encodedDataLength": 3518546,
+          "requests": 23
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Walrus Claiming Portal",
+          "url": "https://claim-walrus.app/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 1,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T15:04:24.000Z",
+          "domain": "claim-walrus.app",
+          "apexDomain": "claim-walrus.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d7b9-0ae3-76a3-9878-749636b89138",
+        "_score": null,
+        "sort": [
+          1760260857251,
+          "0199d7b9-0ae3-76a3-9878-749636b89138"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d7b9-0ae3-76a3-9878-749636b89138/",
+        "screenshot": "https://urlscan.io/screenshots/0199d7b9-0ae3-76a3-9878-749636b89138.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-yieldbasis.app",
+          "apexDomain": "claim-yieldbasis.app",
+          "time": "2025-10-12T09:20:03.476Z",
+          "uuid": "0199d7b8-3788-74d8-80f6-9be47f952e9d",
+          "url": "https://claim-yieldbasis.app/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 3,
+          "dataLength": 5233700,
+          "encodedDataLength": 4593698,
+          "requests": 47
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Yield Basis",
+          "url": "https://claim-yieldbasis.app/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 1,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T15:04:27.000Z",
+          "domain": "claim-yieldbasis.app",
+          "apexDomain": "claim-yieldbasis.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d7b8-3788-74d8-80f6-9be47f952e9d",
+        "_score": null,
+        "sort": [
+          1760260803476,
+          "0199d7b8-3788-74d8-80f6-9be47f952e9d"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d7b8-3788-74d8-80f6-9be47f952e9d/",
+        "screenshot": "https://urlscan.io/screenshots/0199d7b8-3788-74d8-80f6-9be47f952e9d.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "aaaa.dns-theromshost.com",
+          "apexDomain": "dns-theromshost.com",
+          "time": "2025-10-12T09:19:20.667Z",
+          "uuid": "0199d7b7-91ff-746f-baa2-c56b44d96b01",
+          "url": "https://aaaa.dns-theromshost.com/"
+        },
+        "stats": {
+          "uniqIPs": 17,
+          "uniqCountries": 2,
+          "dataLength": 1148207,
+          "encodedDataLength": 1141789,
+          "requests": 22
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 380,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | aaaa.dns-theromshost.com | Cloudflare",
+          "url": "https://aaaa.dns-theromshost.com/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 26,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 75,
+          "tlsValidFrom": "2025-09-16T00:52:24.000Z",
+          "domain": "aaaa.dns-theromshost.com",
+          "apexDomain": "dns-theromshost.com",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d7b7-91ff-746f-baa2-c56b44d96b01",
+        "_score": null,
+        "sort": [
+          1760260760667,
+          "0199d7b7-91ff-746f-baa2-c56b44d96b01"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d7b7-91ff-746f-baa2-c56b44d96b01/",
+        "screenshot": "https://urlscan.io/screenshots/0199d7b7-91ff-746f-baa2-c56b44d96b01.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-grass.app",
+          "apexDomain": "claim-grass.app",
+          "time": "2025-10-12T09:18:41.055Z",
+          "uuid": "0199d7b6-efa4-740d-ac70-e97088126b25",
+          "url": "https://claim-grass.app/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 4,
+          "dataLength": 7500774,
+          "encodedDataLength": 6905491,
+          "requests": 28
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Get rewarded for the internet you don't use",
+          "url": "https://claim-grass.app/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 2,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 2,
+          "tlsValidFrom": "2025-10-09T13:38:30.000Z",
+          "domain": "claim-grass.app",
+          "apexDomain": "claim-grass.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d7b6-efa4-740d-ac70-e97088126b25",
+        "_score": null,
+        "sort": [
+          1760260721055,
+          "0199d7b6-efa4-740d-ac70-e97088126b25"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d7b6-efa4-740d-ac70-e97088126b25/",
+        "screenshot": "https://urlscan.io/screenshots/0199d7b6-efa4-740d-ac70-e97088126b25.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-everlyn.app",
+          "apexDomain": "claim-everlyn.app",
+          "time": "2025-10-12T09:18:36.108Z",
+          "uuid": "0199d7b6-dc51-7769-888d-e92ebddf133e",
+          "url": "https://claim-everlyn.app/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 3,
+          "dataLength": 20266444,
+          "encodedDataLength": 12506567,
+          "requests": 63
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Everlyn AI-Free Fast Unlimited AI Video and Image Generator",
+          "url": "https://claim-everlyn.app/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 2,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 2,
+          "tlsValidFrom": "2025-10-09T13:27:58.000Z",
+          "domain": "claim-everlyn.app",
+          "apexDomain": "claim-everlyn.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R12",
+          "status": "200"
+        },
+        "_id": "0199d7b6-dc51-7769-888d-e92ebddf133e",
+        "_score": null,
+        "sort": [
+          1760260716108,
+          "0199d7b6-dc51-7769-888d-e92ebddf133e"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d7b6-dc51-7769-888d-e92ebddf133e/",
+        "screenshot": "https://urlscan.io/screenshots/0199d7b6-dc51-7769-888d-e92ebddf133e.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-evaaprotocol.app",
+          "apexDomain": "claim-evaaprotocol.app",
+          "time": "2025-10-12T09:18:23.951Z",
+          "uuid": "0199d7b6-ac56-75dd-ba10-82387e060300",
+          "url": "https://claim-evaaprotocol.app/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 3,
+          "dataLength": 4452177,
+          "encodedDataLength": 3855685,
+          "requests": 22
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "EVAA - The first decentralized lending protocol on TON",
+          "url": "https://claim-evaaprotocol.app/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 2,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 2,
+          "tlsValidFrom": "2025-10-09T12:59:52.000Z",
+          "domain": "claim-evaaprotocol.app",
+          "apexDomain": "claim-evaaprotocol.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d7b6-ac56-75dd-ba10-82387e060300",
+        "_score": null,
+        "sort": [
+          1760260703951,
+          "0199d7b6-ac56-75dd-ba10-82387e060300"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d7b6-ac56-75dd-ba10-82387e060300/",
+        "screenshot": "https://urlscan.io/screenshots/0199d7b6-ac56-75dd-ba10-82387e060300.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "wisdomworks.asia",
+          "apexDomain": "wisdomworks.asia",
+          "time": "2025-10-12T08:51:11.085Z",
+          "uuid": "0199d79d-c7d7-727e-bc31-864218c09799",
+          "url": "http://wisdomworks.asia/"
+        },
+        "stats": {
+          "uniqIPs": 12,
+          "uniqCountries": 4,
+          "dataLength": 4883927,
+          "encodedDataLength": 1857444,
+          "requests": 33
+        },
+        "page": {
+          "country": "SG",
+          "server": "Apache",
+          "redirected": "https-only",
+          "ip": "184.168.100.170",
+          "apexDomainAgeDays": 1060,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Global Sumud Flotilla - Humanitarian Aid for Gaza",
+          "url": "https://wisdomworks.asia/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 127,
+          "ptr": "170.100.168.184.host.secureserver.net",
+          "domainAgeDays": 1060,
+          "tlsValidFrom": "2025-06-07T00:00:00.000Z",
+          "domain": "wisdomworks.asia",
+          "apexDomain": "wisdomworks.asia",
+          "asnname": "AS-26496-GO-DADDY-COM-LLC, US",
+          "asn": "AS26496",
+          "tlsIssuer": "ZeroSSL RSA Domain Secure Site CA",
+          "status": "200"
+        },
+        "_id": "0199d79d-c7d7-727e-bc31-864218c09799",
+        "_score": null,
+        "sort": [
+          1760259071085,
+          "0199d79d-c7d7-727e-bc31-864218c09799"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d79d-c7d7-727e-bc31-864218c09799/",
+        "screenshot": "https://urlscan.io/screenshots/0199d79d-c7d7-727e-bc31-864218c09799.png"
+      },
+      {
+        "task": {
+          "visibility": "public",
+          "method": "manual",
+          "domain": "virtual.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T08:28:41.815Z",
+          "uuid": "0199d789-2c16-77fa-86ec-4984d0bdf0cb",
+          "url": "https://virtual.votings.workers.dev/"
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 2,
+          "dataLength": 4707595,
+          "encodedDataLength": 1344514,
+          "requests": 14
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "188.114.96.3",
+          "apexDomainAgeDays": 2,
+          "mimeType": "text/html",
+          "title": "Create, co-own, interact with AI Agents | Virtuals Protocol",
+          "url": "https://virtual.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "virtual.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d789-2c16-77fa-86ec-4984d0bdf0cb",
+        "_score": null,
+        "sort": [
+          1760257721815,
+          "0199d789-2c16-77fa-86ec-4984d0bdf0cb"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d789-2c16-77fa-86ec-4984d0bdf0cb/",
+        "screenshot": "https://urlscan.io/screenshots/0199d789-2c16-77fa-86ec-4984d0bdf0cb.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "voting-punksauction.com",
+          "apexDomain": "voting-punksauction.com",
+          "time": "2025-10-12T08:12:20.050Z",
+          "uuid": "0199d77a-378c-74ec-94ab-232f31df72f8",
+          "url": "http://voting-punksauction.com/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 2,
+          "dataLength": 3901244,
+          "encodedDataLength": 904866,
+          "requests": 14
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.96.3",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Punk.auction | Buy and auction Punks while burning token supply, forever.",
+          "url": "https://vote-punksauction.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "vote-punksauction.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d77a-378c-74ec-94ab-232f31df72f8",
+        "_score": null,
+        "sort": [
+          1760256740050,
+          "0199d77a-378c-74ec-94ab-232f31df72f8"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d77a-378c-74ec-94ab-232f31df72f8/",
+        "screenshot": "https://urlscan.io/screenshots/0199d77a-378c-74ec-94ab-232f31df72f8.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "compensation-hypersliquid.com",
+          "apexDomain": "compensation-hypersliquid.com",
+          "time": "2025-10-12T08:12:02.265Z",
+          "uuid": "0199d779-e6aa-774d-9a3e-41d16ac8873a",
+          "url": "http://compensation-hypersliquid.com/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 10,
+          "uniqCountries": 2,
+          "dataLength": 9486132,
+          "encodedDataLength": 3166175,
+          "requests": 19
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "104.21.61.149",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Hyper Foundation",
+          "url": "https://hyperfoundation.snapshots.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 1,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-11T03:50:18.000Z",
+          "domain": "hyperfoundation.snapshots.workers.dev",
+          "apexDomain": "snapshots.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d779-e6aa-774d-9a3e-41d16ac8873a",
+        "_score": null,
+        "sort": [
+          1760256722265,
+          "0199d779-e6aa-774d-9a3e-41d16ac8873a"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d779-e6aa-774d-9a3e-41d16ac8873a/",
+        "screenshot": "https://urlscan.io/screenshots/0199d779-e6aa-774d-9a3e-41d16ac8873a.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "vote-virtual.app",
+          "apexDomain": "vote-virtual.app",
+          "time": "2025-10-12T08:11:59.221Z",
+          "uuid": "0199d779-e6f2-778b-9807-6b432a2f0486",
+          "url": "http://vote-virtual.app/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 5,
+          "uniqCountries": 2,
+          "dataLength": 4719424,
+          "encodedDataLength": 1352068,
+          "requests": 12
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "172.67.169.186",
+          "apexDomainAgeDays": 2,
+          "mimeType": "text/html",
+          "title": "Create, co-own, interact with AI Agents | Virtuals Protocol",
+          "url": "https://virtual.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "virtual.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d779-e6f2-778b-9807-6b432a2f0486",
+        "_score": null,
+        "sort": [
+          1760256719221,
+          "0199d779-e6f2-778b-9807-6b432a2f0486"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d779-e6f2-778b-9807-6b432a2f0486/",
+        "screenshot": "https://urlscan.io/screenshots/0199d779-e6f2-778b-9807-6b432a2f0486.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "virtual.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T08:11:41.216Z",
+          "uuid": "0199d779-99ad-7758-aea0-9cd9cb1f02e2",
+          "url": "https://virtual.votings.workers.dev/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 2,
+          "dataLength": 4707774,
+          "encodedDataLength": 1344163,
+          "requests": 14
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 2,
+          "mimeType": "text/html",
+          "title": "Create, co-own, interact with AI Agents | Virtuals Protocol",
+          "url": "https://virtual.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "virtual.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d779-99ad-7758-aea0-9cd9cb1f02e2",
+        "_score": null,
+        "sort": [
+          1760256701216,
+          "0199d779-99ad-7758-aea0-9cd9cb1f02e2"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d779-99ad-7758-aea0-9cd9cb1f02e2/",
+        "screenshot": "https://urlscan.io/screenshots/0199d779-99ad-7758-aea0-9cd9cb1f02e2.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "hyperfoundation.snapshots.workers.dev",
+          "apexDomain": "snapshots.workers.dev",
+          "time": "2025-10-12T08:11:08.905Z",
+          "uuid": "0199d779-1d77-7248-ba8a-ad9b8ffdd92e",
+          "url": "https://hyperfoundation.snapshots.workers.dev/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 2,
+          "dataLength": 9465482,
+          "encodedDataLength": 3179685,
+          "requests": 15
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "188.114.96.3",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Hyper Foundation",
+          "url": "https://hyperfoundation.snapshots.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 1,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-11T03:50:18.000Z",
+          "domain": "hyperfoundation.snapshots.workers.dev",
+          "apexDomain": "snapshots.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d779-1d77-7248-ba8a-ad9b8ffdd92e",
+        "_score": null,
+        "sort": [
+          1760256668905,
+          "0199d779-1d77-7248-ba8a-ad9b8ffdd92e"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d779-1d77-7248-ba8a-ad9b8ffdd92e/",
+        "screenshot": "https://urlscan.io/screenshots/0199d779-1d77-7248-ba8a-ad9b8ffdd92e.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "checker-asters.com",
+          "apexDomain": "checker-asters.com",
+          "time": "2025-10-12T08:06:50.156Z",
+          "uuid": "0199d775-2c29-74e9-aaf2-7cdf22ee6196",
+          "url": "http://checker-asters.com/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 2,
+          "dataLength": 10048736,
+          "encodedDataLength": 2949439,
+          "requests": 18
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "url": "https://aster.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "aster.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d775-2c29-74e9-aaf2-7cdf22ee6196",
+        "_score": null,
+        "sort": [
+          1760256410156,
+          "0199d775-2c29-74e9-aaf2-7cdf22ee6196"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d775-2c29-74e9-aaf2-7cdf22ee6196/",
+        "screenshot": "https://urlscan.io/screenshots/0199d775-2c29-74e9-aaf2-7cdf22ee6196.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "hyperfoundation.snapshots.workers.dev",
+          "apexDomain": "snapshots.workers.dev",
+          "time": "2025-10-12T08:00:53.435Z",
+          "uuid": "0199d76f-abfa-744b-9393-a09bf9de1648",
+          "url": "https://hyperfoundation.snapshots.workers.dev/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 2,
+          "dataLength": 9465122,
+          "encodedDataLength": 3156684,
+          "requests": 15
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "104.21.61.149",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Hyper Foundation",
+          "url": "https://hyperfoundation.snapshots.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 1,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-11T03:50:18.000Z",
+          "domain": "hyperfoundation.snapshots.workers.dev",
+          "apexDomain": "snapshots.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76f-abfa-744b-9393-a09bf9de1648",
+        "_score": null,
+        "sort": [
+          1760256053435,
+          "0199d76f-abfa-744b-9393-a09bf9de1648"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76f-abfa-744b-9393-a09bf9de1648/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76f-abfa-744b-9393-a09bf9de1648.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "virtual.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T08:00:51.744Z",
+          "uuid": "0199d76f-ad11-772c-8c6d-65067173611b",
+          "url": "https://virtual.votings.workers.dev/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 2,
+          "dataLength": 4707601,
+          "encodedDataLength": 1344336,
+          "requests": 14
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 2,
+          "mimeType": "text/html",
+          "title": "Create, co-own, interact with AI Agents | Virtuals Protocol",
+          "url": "https://virtual.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "virtual.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76f-ad11-772c-8c6d-65067173611b",
+        "_score": null,
+        "sort": [
+          1760256051744,
+          "0199d76f-ad11-772c-8c6d-65067173611b"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76f-ad11-772c-8c6d-65067173611b/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76f-ad11-772c-8c6d-65067173611b.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "compensation-hypersliquid.com",
+          "apexDomain": "compensation-hypersliquid.com",
+          "time": "2025-10-12T08:00:50.501Z",
+          "uuid": "0199d76f-abfa-744b-9393-9ec87c24e44a",
+          "url": "http://compensation-hypersliquid.com/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 2,
+          "dataLength": 9465326,
+          "encodedDataLength": 3157606,
+          "requests": 17
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Hyper Foundation",
+          "url": "https://hyperfoundation.snapshots.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 1,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-11T03:50:18.000Z",
+          "domain": "hyperfoundation.snapshots.workers.dev",
+          "apexDomain": "snapshots.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76f-abfa-744b-9393-9ec87c24e44a",
+        "_score": null,
+        "sort": [
+          1760256050501,
+          "0199d76f-abfa-744b-9393-9ec87c24e44a"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76f-abfa-744b-9393-9ec87c24e44a/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76f-abfa-744b-9393-9ec87c24e44a.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "vote-virtual.app",
+          "apexDomain": "vote-virtual.app",
+          "time": "2025-10-12T08:00:50.066Z",
+          "uuid": "0199d76f-abd5-750b-acdb-3757114bc6e2",
+          "url": "http://vote-virtual.app/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 2,
+          "dataLength": 4709744,
+          "encodedDataLength": 1346559,
+          "requests": 16
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.96.3",
+          "apexDomainAgeDays": 2,
+          "mimeType": "text/html",
+          "title": "Create, co-own, interact with AI Agents | Virtuals Protocol",
+          "url": "https://virtual.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "virtual.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76f-abd5-750b-acdb-3757114bc6e2",
+        "_score": null,
+        "sort": [
+          1760256050066,
+          "0199d76f-abd5-750b-acdb-3757114bc6e2"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76f-abd5-750b-acdb-3757114bc6e2/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76f-abd5-750b-acdb-3757114bc6e2.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "voting-punksauction.com",
+          "apexDomain": "voting-punksauction.com",
+          "time": "2025-10-12T08:00:49.387Z",
+          "uuid": "0199d76f-ace1-7661-b3e4-e041e999b3ba",
+          "url": "http://voting-punksauction.com/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 2,
+          "dataLength": 3901064,
+          "encodedDataLength": 905120,
+          "requests": 14
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Punk.auction | Buy and auction Punks while burning token supply, forever.",
+          "url": "https://vote-punksauction.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "vote-punksauction.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76f-ace1-7661-b3e4-e041e999b3ba",
+        "_score": null,
+        "sort": [
+          1760256049387,
+          "0199d76f-ace1-7661-b3e4-e041e999b3ba"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76f-ace1-7661-b3e4-e041e999b3ba/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76f-ace1-7661-b3e4-e041e999b3ba.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "manyushib.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T08:00:27.476Z",
+          "uuid": "0199d76f-4b42-773a-91b0-3780e5ddbbc6",
+          "url": "https://manyushib.votings.workers.dev/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 4,
+          "dataLength": 15916400,
+          "encodedDataLength": 4776934,
+          "requests": 18
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "188.114.96.3",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Little Manyu",
+          "url": "https://manyushib.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "manyushib.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76f-4b42-773a-91b0-3780e5ddbbc6",
+        "_score": null,
+        "sort": [
+          1760256027476,
+          "0199d76f-4b42-773a-91b0-3780e5ddbbc6"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76f-4b42-773a-91b0-3780e5ddbbc6/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76f-4b42-773a-91b0-3780e5ddbbc6.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "checker-asters.com",
+          "apexDomain": "checker-asters.com",
+          "time": "2025-10-12T07:58:25.169Z",
+          "uuid": "0199d76d-7a06-714b-af1b-b31769411a42",
+          "url": "http://checker-asters.com/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 2,
+          "dataLength": 10028971,
+          "encodedDataLength": 2943667,
+          "requests": 16
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "url": "https://aster.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "aster.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76d-7a06-714b-af1b-b31769411a42",
+        "_score": null,
+        "sort": [
+          1760255905169,
+          "0199d76d-7a06-714b-af1b-b31769411a42"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76d-7a06-714b-af1b-b31769411a42/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76d-7a06-714b-af1b-b31769411a42.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "voting-manyushib.info",
+          "apexDomain": "voting-manyushib.info",
+          "time": "2025-10-12T07:58:17.199Z",
+          "uuid": "0199d76d-52f2-70be-829c-1dee3c2ca776",
+          "url": "http://voting-manyushib.info/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 2,
+          "dataLength": 15714759,
+          "encodedDataLength": 4722186,
+          "requests": 16
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.96.3",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Little Manyu",
+          "url": "https://manyushib.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "manyushib.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76d-52f2-70be-829c-1dee3c2ca776",
+        "_score": null,
+        "sort": [
+          1760255897199,
+          "0199d76d-52f2-70be-829c-1dee3c2ca776"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76d-52f2-70be-829c-1dee3c2ca776/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76d-52f2-70be-829c-1dee3c2ca776.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "pepusunchained.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T07:55:49.685Z",
+          "uuid": "0199d76b-1672-73de-aa23-887f3043b766",
+          "url": "https://pepusunchained.votings.workers.dev/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 3,
+          "dataLength": 13837042,
+          "encodedDataLength": 4437149,
+          "requests": 14
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 2,
+          "mimeType": "text/html",
+          "title": "Pepe Unchained | Pepe's Own Layer 2 Blockchain",
+          "url": "https://pepusunchained.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "pepusunchained.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76b-1672-73de-aa23-887f3043b766",
+        "_score": null,
+        "sort": [
+          1760255749685,
+          "0199d76b-1672-73de-aa23-887f3043b766"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76b-1672-73de-aa23-887f3043b766/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76b-1672-73de-aa23-887f3043b766.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "proposals-maplefi.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T07:55:10.143Z",
+          "uuid": "0199d76a-8050-704a-bf9a-8540808cb011",
+          "url": "https://proposals-maplefi.votings.workers.dev/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 2,
+          "dataLength": 6810384,
+          "encodedDataLength": 2016750,
+          "requests": 17
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Maple Finance",
+          "url": "https://proposals-maplefi.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "proposals-maplefi.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76a-8050-704a-bf9a-8540808cb011",
+        "_score": null,
+        "sort": [
+          1760255710143,
+          "0199d76a-8050-704a-bf9a-8540808cb011"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76a-8050-704a-bf9a-8540808cb011/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76a-8050-704a-bf9a-8540808cb011.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "proposals-aster.com",
+          "apexDomain": "proposals-aster.com",
+          "time": "2025-10-12T07:55:01.423Z",
+          "uuid": "0199d76a-5ddd-772f-8544-e550276d9c4c",
+          "url": "http://proposals-aster.com/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 2,
+          "dataLength": 10029152,
+          "encodedDataLength": 2941714,
+          "requests": 16
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "url": "https://aster.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "aster.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76a-5ddd-772f-8544-e550276d9c4c",
+        "_score": null,
+        "sort": [
+          1760255701423,
+          "0199d76a-5ddd-772f-8544-e550276d9c4c"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76a-5ddd-772f-8544-e550276d9c4c/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76a-5ddd-772f-8544-e550276d9c4c.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "portal-pepusunchained.com",
+          "apexDomain": "portal-pepusunchained.com",
+          "time": "2025-10-12T07:55:00.219Z",
+          "uuid": "0199d76a-52ca-7669-9212-e3ecdfc072fa",
+          "url": "https://portal-pepusunchained.com/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 9,
+          "uniqCountries": 1,
+          "dataLength": 13859371,
+          "encodedDataLength": 4448018,
+          "requests": 17
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "104.21.27.200",
+          "apexDomainAgeDays": 2,
+          "mimeType": "text/html",
+          "title": "Pepe Unchained | Pepe's Own Layer 2 Blockchain",
+          "url": "https://pepusunchained.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "pepusunchained.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76a-52ca-7669-9212-e3ecdfc072fa",
+        "_score": null,
+        "sort": [
+          1760255700219,
+          "0199d76a-52ca-7669-9212-e3ecdfc072fa"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76a-52ca-7669-9212-e3ecdfc072fa/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76a-52ca-7669-9212-e3ecdfc072fa.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "voting-trillions.info",
+          "apexDomain": "voting-trillions.info",
+          "time": "2025-10-12T07:54:57.062Z",
+          "uuid": "0199d76a-4c64-73ce-a1de-6527b676b684",
+          "url": "https://voting-trillions.info/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 10,
+          "uniqCountries": 2,
+          "dataLength": 6290840,
+          "encodedDataLength": 1729207,
+          "requests": 19
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "172.66.44.137",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Trillions.",
+          "url": "https://vote-trillions.pages.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T07:07:08.000Z",
+          "domain": "vote-trillions.pages.dev",
+          "apexDomain": "vote-trillions.pages.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76a-4c64-73ce-a1de-6527b676b684",
+        "_score": null,
+        "sort": [
+          1760255697062,
+          "0199d76a-4c64-73ce-a1de-6527b676b684"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76a-4c64-73ce-a1de-6527b676b684/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76a-4c64-73ce-a1de-6527b676b684.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "aster.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T07:54:52.250Z",
+          "uuid": "0199d76a-2ee1-77fa-a2d1-5620167ebc9e",
+          "url": "https://aster.votings.workers.dev/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 3,
+          "dataLength": 10026988,
+          "encodedDataLength": 2937302,
+          "requests": 14
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "172.67.169.186",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "url": "https://aster.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "aster.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d76a-2ee1-77fa-a2d1-5620167ebc9e",
+        "_score": null,
+        "sort": [
+          1760255692250,
+          "0199d76a-2ee1-77fa-a2d1-5620167ebc9e"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d76a-2ee1-77fa-a2d1-5620167ebc9e/",
+        "screenshot": "https://urlscan.io/screenshots/0199d76a-2ee1-77fa-a2d1-5620167ebc9e.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "cypher.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T07:54:02.991Z",
+          "uuid": "0199d769-6fac-7690-853a-a9ceb643d5a8",
+          "url": "https://cypher.votings.workers.dev/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 3,
+          "dataLength": 27515846,
+          "encodedDataLength": 10575748,
+          "requests": 14
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 2,
+          "mimeType": "text/html",
+          "title": "Cypher Card | Spend Crypto Worldwide & Convert to Fiat Easily",
+          "url": "https://cypher.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "cypher.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d769-6fac-7690-853a-a9ceb643d5a8",
+        "_score": null,
+        "sort": [
+          1760255642991,
+          "0199d769-6fac-7690-853a-a9ceb643d5a8"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d769-6fac-7690-853a-a9ceb643d5a8/",
+        "screenshot": "https://urlscan.io/screenshots/0199d769-6fac-7690-853a-a9ceb643d5a8.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "vote-trillions.pages.dev",
+          "apexDomain": "vote-trillions.pages.dev",
+          "time": "2025-10-12T07:53:06.567Z",
+          "uuid": "0199d768-9d8b-71a9-8de3-405c41761e1a",
+          "url": "https://vote-trillions.pages.dev/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 4,
+          "dataLength": 6268282,
+          "encodedDataLength": 1704266,
+          "requests": 15
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "172.66.47.119",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Trillions.",
+          "url": "https://vote-trillions.pages.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T07:07:08.000Z",
+          "domain": "vote-trillions.pages.dev",
+          "apexDomain": "vote-trillions.pages.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d768-9d8b-71a9-8de3-405c41761e1a",
+        "_score": null,
+        "sort": [
+          1760255586567,
+          "0199d768-9d8b-71a9-8de3-405c41761e1a"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d768-9d8b-71a9-8de3-405c41761e1a/",
+        "screenshot": "https://urlscan.io/screenshots/0199d768-9d8b-71a9-8de3-405c41761e1a.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "proposals-maplefi.com",
+          "apexDomain": "proposals-maplefi.com",
+          "time": "2025-10-12T07:52:32.912Z",
+          "uuid": "0199d768-1a00-7327-8929-6a5b08d05703",
+          "url": "http://proposals-maplefi.com/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 2,
+          "dataLength": 6810622,
+          "encodedDataLength": 2018011,
+          "requests": 19
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Maple Finance",
+          "url": "https://proposals-maplefi.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "proposals-maplefi.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d768-1a00-7327-8929-6a5b08d05703",
+        "_score": null,
+        "sort": [
+          1760255552912,
+          "0199d768-1a00-7327-8929-6a5b08d05703"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d768-1a00-7327-8929-6a5b08d05703/",
+        "screenshot": "https://urlscan.io/screenshots/0199d768-1a00-7327-8929-6a5b08d05703.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "manyushib.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T07:47:52.850Z",
+          "uuid": "0199d763-af6c-761d-86e1-45eeaaaff52c",
+          "url": "https://manyushib.votings.workers.dev/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 2,
+          "dataLength": 15915516,
+          "encodedDataLength": 4792123,
+          "requests": 18
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "104.21.27.200",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Little Manyu",
+          "url": "https://manyushib.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "manyushib.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d763-af6c-761d-86e1-45eeaaaff52c",
+        "_score": null,
+        "sort": [
+          1760255272850,
+          "0199d763-af6c-761d-86e1-45eeaaaff52c"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d763-af6c-761d-86e1-45eeaaaff52c/",
+        "screenshot": "https://urlscan.io/screenshots/0199d763-af6c-761d-86e1-45eeaaaff52c.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "proposals-maplefi.com",
+          "apexDomain": "proposals-maplefi.com",
+          "time": "2025-10-12T07:47:25.734Z",
+          "uuid": "0199d763-6a27-724b-90e0-ecb80f50b6fb",
+          "url": "http://proposals-maplefi.com/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 9,
+          "uniqCountries": 2,
+          "dataLength": 6810444,
+          "encodedDataLength": 2015861,
+          "requests": 19
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Maple Finance",
+          "url": "https://proposals-maplefi.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "proposals-maplefi.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d763-6a27-724b-90e0-ecb80f50b6fb",
+        "_score": null,
+        "sort": [
+          1760255245734,
+          "0199d763-6a27-724b-90e0-ecb80f50b6fb"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d763-6a27-724b-90e0-ecb80f50b6fb/",
+        "screenshot": "https://urlscan.io/screenshots/0199d763-6a27-724b-90e0-ecb80f50b6fb.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "pepusunchained.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T07:47:07.729Z",
+          "uuid": "0199d763-16e0-7166-95e0-0dea8bd7012b",
+          "url": "https://pepusunchained.votings.workers.dev/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 2,
+          "dataLength": 13836861,
+          "encodedDataLength": 4444166,
+          "requests": 14
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "172.67.169.186",
+          "apexDomainAgeDays": 2,
+          "mimeType": "text/html",
+          "title": "Pepe Unchained | Pepe's Own Layer 2 Blockchain",
+          "url": "https://pepusunchained.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "pepusunchained.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d763-16e0-7166-95e0-0dea8bd7012b",
+        "_score": null,
+        "sort": [
+          1760255227729,
+          "0199d763-16e0-7166-95e0-0dea8bd7012b"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d763-16e0-7166-95e0-0dea8bd7012b/",
+        "screenshot": "https://urlscan.io/screenshots/0199d763-16e0-7166-95e0-0dea8bd7012b.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "portal-pepusunchained.com",
+          "apexDomain": "portal-pepusunchained.com",
+          "time": "2025-10-12T07:47:06.013Z",
+          "uuid": "0199d763-1630-7699-8c22-33adbdeb6bec",
+          "url": "https://portal-pepusunchained.com/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 9,
+          "uniqCountries": 2,
+          "dataLength": 13859421,
+          "encodedDataLength": 4466328,
+          "requests": 18
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "104.21.27.200",
+          "apexDomainAgeDays": 2,
+          "mimeType": "text/html",
+          "title": "Pepe Unchained | Pepe's Own Layer 2 Blockchain",
+          "url": "https://pepusunchained.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "pepusunchained.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d763-1630-7699-8c22-33adbdeb6bec",
+        "_score": null,
+        "sort": [
+          1760255226013,
+          "0199d763-1630-7699-8c22-33adbdeb6bec"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d763-1630-7699-8c22-33adbdeb6bec/",
+        "screenshot": "https://urlscan.io/screenshots/0199d763-1630-7699-8c22-33adbdeb6bec.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "vote-trillions.pages.dev",
+          "apexDomain": "vote-trillions.pages.dev",
+          "time": "2025-10-12T07:47:04.755Z",
+          "uuid": "0199d763-157b-7204-9694-b542dfeb620c",
+          "url": "https://vote-trillions.pages.dev/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 3,
+          "dataLength": 6268102,
+          "encodedDataLength": 1704843,
+          "requests": 15
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "172.66.44.137",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Trillions.",
+          "url": "https://vote-trillions.pages.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T07:07:08.000Z",
+          "domain": "vote-trillions.pages.dev",
+          "apexDomain": "vote-trillions.pages.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d763-157b-7204-9694-b542dfeb620c",
+        "_score": null,
+        "sort": [
+          1760255224755,
+          "0199d763-157b-7204-9694-b542dfeb620c"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d763-157b-7204-9694-b542dfeb620c/",
+        "screenshot": "https://urlscan.io/screenshots/0199d763-157b-7204-9694-b542dfeb620c.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "proposals-maplefi.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T07:47:04.309Z",
+          "uuid": "0199d763-16e1-7435-b09f-dc3ef2539b12",
+          "url": "https://proposals-maplefi.votings.workers.dev/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 2,
+          "dataLength": 6810205,
+          "encodedDataLength": 2014449,
+          "requests": 17
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "188.114.97.3",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Maple Finance",
+          "url": "https://proposals-maplefi.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "proposals-maplefi.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d763-16e1-7435-b09f-dc3ef2539b12",
+        "_score": null,
+        "sort": [
+          1760255224309,
+          "0199d763-16e1-7435-b09f-dc3ef2539b12"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d763-16e1-7435-b09f-dc3ef2539b12/",
+        "screenshot": "https://urlscan.io/screenshots/0199d763-16e1-7435-b09f-dc3ef2539b12.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "voting-trillions.info",
+          "apexDomain": "voting-trillions.info",
+          "time": "2025-10-12T07:47:03.528Z",
+          "uuid": "0199d763-1635-7338-9c30-4886ed289853",
+          "url": "https://voting-trillions.info/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 9,
+          "uniqCountries": 2,
+          "dataLength": 6270266,
+          "encodedDataLength": 1706485,
+          "requests": 17
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "172.66.44.137",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Trillions.",
+          "url": "https://vote-trillions.pages.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T07:07:08.000Z",
+          "domain": "vote-trillions.pages.dev",
+          "apexDomain": "vote-trillions.pages.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d763-1635-7338-9c30-4886ed289853",
+        "_score": null,
+        "sort": [
+          1760255223528,
+          "0199d763-1635-7338-9c30-4886ed289853"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d763-1635-7338-9c30-4886ed289853/",
+        "screenshot": "https://urlscan.io/screenshots/0199d763-1635-7338-9c30-4886ed289853.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "cypher.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T07:44:52.410Z",
+          "uuid": "0199d760-f67f-73ac-9eb4-97dab56130a9",
+          "url": "https://cypher.votings.workers.dev/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 2,
+          "dataLength": 27515661,
+          "encodedDataLength": 10600602,
+          "requests": 14
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "104.21.27.200",
+          "apexDomainAgeDays": 2,
+          "mimeType": "text/html",
+          "title": "Cypher Card | Spend Crypto Worldwide & Convert to Fiat Easily",
+          "url": "https://cypher.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "cypher.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d760-f67f-73ac-9eb4-97dab56130a9",
+        "_score": null,
+        "sort": [
+          1760255092410,
+          "0199d760-f67f-73ac-9eb4-97dab56130a9"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d760-f67f-73ac-9eb4-97dab56130a9/",
+        "screenshot": "https://urlscan.io/screenshots/0199d760-f67f-73ac-9eb4-97dab56130a9.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "aster.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "time": "2025-10-12T07:44:29.792Z",
+          "uuid": "0199d760-a663-72de-95fb-38db496a0aba",
+          "url": "https://aster.votings.workers.dev/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 2,
+          "dataLength": 10043097,
+          "encodedDataLength": 2939962,
+          "requests": 14
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "104.21.27.200",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "url": "https://aster.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "aster.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d760-a663-72de-95fb-38db496a0aba",
+        "_score": null,
+        "sort": [
+          1760255069792,
+          "0199d760-a663-72de-95fb-38db496a0aba"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d760-a663-72de-95fb-38db496a0aba/",
+        "screenshot": "https://urlscan.io/screenshots/0199d760-a663-72de-95fb-38db496a0aba.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "cypher-voting.com",
+          "apexDomain": "cypher-voting.com",
+          "time": "2025-10-12T07:44:25.647Z",
+          "uuid": "0199d760-a656-70ef-a301-86ecbbcf24ab",
+          "url": "http://cypher-voting.com/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 2,
+          "dataLength": 27517810,
+          "encodedDataLength": 10572642,
+          "requests": 16
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.96.3",
+          "apexDomainAgeDays": 2,
+          "mimeType": "text/html",
+          "title": "Cypher Card | Spend Crypto Worldwide & Convert to Fiat Easily",
+          "url": "https://cypher.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "cypher.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d760-a656-70ef-a301-86ecbbcf24ab",
+        "_score": null,
+        "sort": [
+          1760255065647,
+          "0199d760-a656-70ef-a301-86ecbbcf24ab"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d760-a656-70ef-a301-86ecbbcf24ab/",
+        "screenshot": "https://urlscan.io/screenshots/0199d760-a656-70ef-a301-86ecbbcf24ab.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "proposals-aster.com",
+          "apexDomain": "proposals-aster.com",
+          "time": "2025-10-12T07:44:24.975Z",
+          "uuid": "0199d760-a64e-7038-a7b5-57853880bc1c",
+          "url": "http://proposals-aster.com/",
+          "tags": [
+            "phishdestroy"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 1,
+          "dataLength": 10054998,
+          "encodedDataLength": 2949169,
+          "requests": 16
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "188.114.96.3",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "url": "https://aster.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "aster.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d760-a64e-7038-a7b5-57853880bc1c",
+        "_score": null,
+        "sort": [
+          1760255064975,
+          "0199d760-a64e-7038-a7b5-57853880bc1c"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d760-a64e-7038-a7b5-57853880bc1c/",
+        "screenshot": "https://urlscan.io/screenshots/0199d760-a64e-7038-a7b5-57853880bc1c.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "ewfwefwefewfeaslkdnejklrnewjkrnbewkjfbwjkfbwwfewfwe.pages.dev",
+          "apexDomain": "ewfwefwefewfeaslkdnejklrnewjkrnbewkjfbwjkfbwwfewfwe.pages.dev",
+          "time": "2025-10-12T07:29:18.704Z",
+          "uuid": "0199d752-cff4-743d-a59d-22d0d6f0f69a",
+          "url": "https://ewfwefwefewfeaslkdnejklrnewjkrnbewkjfbwjkfbwwfewfwe.pages.dev/"
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 2,
+          "dataLength": 3626777,
+          "encodedDataLength": 860711,
+          "requests": 15
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "172.66.47.105",
+          "apexDomainAgeDays": 7,
+          "mimeType": "text/html",
+          "title": "Document",
+          "url": "https://ewfwefwefewfeaslkdnejklrnewjkrnbewkjfbwjkfbwwfewfwe.pages.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 7,
+          "domainAgeDays": 7,
+          "tlsValidFrom": "2025-10-05T00:33:48.000Z",
+          "domain": "ewfwefwefewfeaslkdnejklrnewjkrnbewkjfbwjkfbwwfewfwe.pages.dev",
+          "apexDomain": "ewfwefwefewfeaslkdnejklrnewjkrnbewkjfbwjkfbwwfewfwe.pages.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d752-cff4-743d-a59d-22d0d6f0f69a",
+        "_score": null,
+        "sort": [
+          1760254158704,
+          "0199d752-cff4-743d-a59d-22d0d6f0f69a"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d752-cff4-743d-a59d-22d0d6f0f69a/",
+        "screenshot": "https://urlscan.io/screenshots/0199d752-cff4-743d-a59d-22d0d6f0f69a.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "regergergrteht.pages.dev",
+          "apexDomain": "regergergrteht.pages.dev",
+          "time": "2025-10-12T07:29:16.479Z",
+          "uuid": "0199d752-ca8d-72e8-aa84-047234d99c79",
+          "url": "https://regergergrteht.pages.dev/"
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 2,
+          "dataLength": 3626780,
+          "encodedDataLength": 860868,
+          "requests": 15
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "188.114.96.3",
+          "apexDomainAgeDays": 7,
+          "mimeType": "text/html",
+          "title": "Document",
+          "url": "https://regergergrteht.pages.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 7,
+          "domainAgeDays": 7,
+          "tlsValidFrom": "2025-10-05T00:39:44.000Z",
+          "domain": "regergergrteht.pages.dev",
+          "apexDomain": "regergergrteht.pages.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d752-ca8d-72e8-aa84-047234d99c79",
+        "_score": null,
+        "sort": [
+          1760254156479,
+          "0199d752-ca8d-72e8-aa84-047234d99c79"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d752-ca8d-72e8-aa84-047234d99c79/",
+        "screenshot": "https://urlscan.io/screenshots/0199d752-ca8d-72e8-aa84-047234d99c79.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "tradeonbolt.com",
+          "apexDomain": "tradeonbolt.com",
+          "time": "2025-10-12T07:29:12.824Z",
+          "uuid": "0199d752-baa3-728d-b8ce-5ecea35a5cdc",
+          "url": "https://tradeonbolt.com/"
+        },
+        "stats": {
+          "uniqIPs": 9,
+          "uniqCountries": 3,
+          "dataLength": 4171304,
+          "encodedDataLength": 1040474,
+          "requests": 20
+        },
+        "page": {
+          "country": "DE",
+          "server": "hcdn",
+          "ip": "92.113.23.251",
+          "apexDomainAgeDays": 10,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Bolt Trading",
+          "url": "https://tradeonbolt.com/",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 10,
+          "domainAgeDays": 10,
+          "tlsValidFrom": "2025-10-02T00:04:47.000Z",
+          "domain": "tradeonbolt.com",
+          "apexDomain": "tradeonbolt.com",
+          "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+          "asn": "AS47583",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d752-baa3-728d-b8ce-5ecea35a5cdc",
+        "_score": null,
+        "sort": [
+          1760254152824,
+          "0199d752-baa3-728d-b8ce-5ecea35a5cdc"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d752-baa3-728d-b8ce-5ecea35a5cdc/",
+        "screenshot": "https://urlscan.io/screenshots/0199d752-baa3-728d-b8ce-5ecea35a5cdc.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "dfwefewfw.pages.dev",
+          "apexDomain": "dfwefewfw.pages.dev",
+          "time": "2025-10-12T07:29:02.621Z",
+          "uuid": "0199d752-96c7-7507-890a-ba8f4fda9732",
+          "url": "https://dfwefewfw.pages.dev/"
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 3,
+          "dataLength": 3633403,
+          "encodedDataLength": 863997,
+          "requests": 15
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "2a06:98c1:3120::3",
+          "apexDomainAgeDays": 7,
+          "mimeType": "text/html",
+          "title": "Document",
+          "url": "https://dfwefewfw.pages.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 7,
+          "domainAgeDays": 7,
+          "tlsValidFrom": "2025-10-04T23:53:06.000Z",
+          "domain": "dfwefewfw.pages.dev",
+          "apexDomain": "dfwefewfw.pages.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d752-96c7-7507-890a-ba8f4fda9732",
+        "_score": null,
+        "sort": [
+          1760254142621,
+          "0199d752-96c7-7507-890a-ba8f4fda9732"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d752-96c7-7507-890a-ba8f4fda9732/",
+        "screenshot": "https://urlscan.io/screenshots/0199d752-96c7-7507-890a-ba8f4fda9732.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "wavefocus.info",
+          "apexDomain": "wavefocus.info",
+          "time": "2025-10-12T06:04:33.473Z",
+          "uuid": "0199d705-3ca3-778d-b002-8cb2b2511324",
+          "url": "http://wavefocus.info/"
+        },
+        "stats": {
+          "uniqIPs": 18,
+          "uniqCountries": 4,
+          "dataLength": 1150290,
+          "encodedDataLength": 1143307,
+          "requests": 26
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 51,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | wavefocus.info | Cloudflare",
+          "url": "https://wavefocus.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 51,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 51,
+          "tlsValidFrom": "2025-08-21T18:38:39.000Z",
+          "domain": "wavefocus.info",
+          "apexDomain": "wavefocus.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "Cloudflare TLS Issuing ECC CA 1",
+          "status": "403"
+        },
+        "_id": "0199d705-3ca3-778d-b002-8cb2b2511324",
+        "_score": null,
+        "sort": [
+          1760249073473,
+          "0199d705-3ca3-778d-b002-8cb2b2511324"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d705-3ca3-778d-b002-8cb2b2511324/",
+        "screenshot": "https://urlscan.io/screenshots/0199d705-3ca3-778d-b002-8cb2b2511324.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "trendbyte.info",
+          "apexDomain": "trendbyte.info",
+          "time": "2025-10-12T06:03:13.697Z",
+          "uuid": "0199d704-0168-72e9-a4c9-de10975fa964",
+          "url": "http://trendbyte.info/"
+        },
+        "stats": {
+          "uniqIPs": 14,
+          "uniqCountries": 2,
+          "dataLength": 1146439,
+          "encodedDataLength": 1140418,
+          "requests": 18
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 51,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | trendbyte.info | Cloudflare",
+          "url": "https://trendbyte.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 51,
+          "tlsValidFrom": "2025-08-22T10:28:39.000Z",
+          "domain": "trendbyte.info",
+          "apexDomain": "trendbyte.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d704-0168-72e9-a4c9-de10975fa964",
+        "_score": null,
+        "sort": [
+          1760248993697,
+          "0199d704-0168-72e9-a4c9-de10975fa964"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d704-0168-72e9-a4c9-de10975fa964/",
+        "screenshot": "https://urlscan.io/screenshots/0199d704-0168-72e9-a4c9-de10975fa964.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "trendcore.info",
+          "apexDomain": "trendcore.info",
+          "time": "2025-10-12T06:03:12.984Z",
+          "uuid": "0199d704-0510-7477-912f-da85fd0701b4",
+          "url": "http://trendcore.info/"
+        },
+        "stats": {
+          "uniqIPs": 13,
+          "uniqCountries": 3,
+          "dataLength": 637344,
+          "encodedDataLength": 628893,
+          "requests": 18
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 50,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | trendcore.info | Cloudflare",
+          "url": "https://trendcore.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 50,
+          "tlsValidFrom": "2025-08-22T10:40:48.000Z",
+          "domain": "trendcore.info",
+          "apexDomain": "trendcore.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d704-0510-7477-912f-da85fd0701b4",
+        "_score": null,
+        "sort": [
+          1760248992984,
+          "0199d704-0510-7477-912f-da85fd0701b4"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d704-0510-7477-912f-da85fd0701b4/",
+        "screenshot": "https://urlscan.io/screenshots/0199d704-0510-7477-912f-da85fd0701b4.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "trackvision.info",
+          "apexDomain": "trackvision.info",
+          "time": "2025-10-12T06:03:10.423Z",
+          "uuid": "0199d703-f673-717c-ab1d-613f39286d02",
+          "url": "http://trackvision.info/"
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 2,
+          "dataLength": 125121,
+          "encodedDataLength": 113597,
+          "requests": 11
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 50,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | trackvision.info | Cloudflare",
+          "url": "https://trackvision.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 50,
+          "tlsValidFrom": "2025-08-22T10:31:02.000Z",
+          "domain": "trackvision.info",
+          "apexDomain": "trackvision.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d703-f673-717c-ab1d-613f39286d02",
+        "_score": null,
+        "sort": [
+          1760248990423,
+          "0199d703-f673-717c-ab1d-613f39286d02"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d703-f673-717c-ab1d-613f39286d02/",
+        "screenshot": "https://urlscan.io/screenshots/0199d703-f673-717c-ab1d-613f39286d02.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "tracksmart.info",
+          "apexDomain": "tracksmart.info",
+          "time": "2025-10-12T06:03:09.008Z",
+          "uuid": "0199d703-f41a-740a-a73c-8344bb6eb2b7",
+          "url": "http://tracksmart.info/"
+        },
+        "stats": {
+          "uniqIPs": 17,
+          "uniqCountries": 3,
+          "dataLength": 1150285,
+          "encodedDataLength": 1143329,
+          "requests": 26
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 51,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | tracksmart.info | Cloudflare",
+          "url": "https://tracksmart.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 51,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 51,
+          "tlsValidFrom": "2025-08-21T17:45:12.000Z",
+          "domain": "tracksmart.info",
+          "apexDomain": "tracksmart.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d703-f41a-740a-a73c-8344bb6eb2b7",
+        "_score": null,
+        "sort": [
+          1760248989008,
+          "0199d703-f41a-740a-a73c-8344bb6eb2b7"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d703-f41a-740a-a73c-8344bb6eb2b7/",
+        "screenshot": "https://urlscan.io/screenshots/0199d703-f41a-740a-a73c-8344bb6eb2b7.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "tracklamp.info",
+          "apexDomain": "tracklamp.info",
+          "time": "2025-10-12T06:03:06.777Z",
+          "uuid": "0199d703-ecd2-70a9-8d41-c5f48fe584f9",
+          "url": "http://tracklamp.info/"
+        },
+        "stats": {
+          "uniqIPs": 9,
+          "uniqCountries": 3,
+          "dataLength": 633334,
+          "encodedDataLength": 625052,
+          "requests": 12
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 50,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | tracklamp.info | Cloudflare",
+          "url": "https://tracklamp.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 50,
+          "tlsValidFrom": "2025-08-22T10:38:07.000Z",
+          "domain": "tracklamp.info",
+          "apexDomain": "tracklamp.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d703-ecd2-70a9-8d41-c5f48fe584f9",
+        "_score": null,
+        "sort": [
+          1760248986777,
+          "0199d703-ecd2-70a9-8d41-c5f48fe584f9"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d703-ecd2-70a9-8d41-c5f48fe584f9/",
+        "screenshot": "https://urlscan.io/screenshots/0199d703-ecd2-70a9-8d41-c5f48fe584f9.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "streamseed.info",
+          "apexDomain": "streamseed.info",
+          "time": "2025-10-12T06:02:45.110Z",
+          "uuid": "0199d703-96a0-7625-b636-5dbfeb532735",
+          "url": "http://streamseed.info/"
+        },
+        "stats": {
+          "uniqIPs": 19,
+          "uniqCountries": 3,
+          "dataLength": 1149063,
+          "encodedDataLength": 1143284,
+          "requests": 24
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 50,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | streamseed.info | Cloudflare",
+          "url": "https://streamseed.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 50,
+          "tlsValidFrom": "2025-08-22T10:38:43.000Z",
+          "domain": "streamseed.info",
+          "apexDomain": "streamseed.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d703-96a0-7625-b636-5dbfeb532735",
+        "_score": null,
+        "sort": [
+          1760248965110,
+          "0199d703-96a0-7625-b636-5dbfeb532735"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d703-96a0-7625-b636-5dbfeb532735/",
+        "screenshot": "https://urlscan.io/screenshots/0199d703-96a0-7625-b636-5dbfeb532735.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "streamlamp.info",
+          "apexDomain": "streamlamp.info",
+          "time": "2025-10-12T06:02:44.893Z",
+          "uuid": "0199d703-90e5-715f-b012-f530450ad402",
+          "url": "http://streamlamp.info/"
+        },
+        "stats": {
+          "uniqIPs": 14,
+          "uniqCountries": 2,
+          "dataLength": 1146443,
+          "encodedDataLength": 1140489,
+          "requests": 18
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 50,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | streamlamp.info | Cloudflare",
+          "url": "https://streamlamp.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 50,
+          "tlsValidFrom": "2025-08-22T10:41:32.000Z",
+          "domain": "streamlamp.info",
+          "apexDomain": "streamlamp.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d703-90e5-715f-b012-f530450ad402",
+        "_score": null,
+        "sort": [
+          1760248964893,
+          "0199d703-90e5-715f-b012-f530450ad402"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d703-90e5-715f-b012-f530450ad402/",
+        "screenshot": "https://urlscan.io/screenshots/0199d703-90e5-715f-b012-f530450ad402.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "pointzone.info",
+          "apexDomain": "pointzone.info",
+          "time": "2025-10-12T06:01:27.523Z",
+          "uuid": "0199d702-5647-7734-97e6-57cd2c848df3",
+          "url": "http://pointzone.info/"
+        },
+        "stats": {
+          "uniqIPs": 9,
+          "uniqCountries": 2,
+          "dataLength": 634422,
+          "encodedDataLength": 625010,
+          "requests": 11
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 51,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | pointzone.info | Cloudflare",
+          "url": "https://pointzone.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 51,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 51,
+          "tlsValidFrom": "2025-08-21T17:47:18.000Z",
+          "domain": "pointzone.info",
+          "apexDomain": "pointzone.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d702-5647-7734-97e6-57cd2c848df3",
+        "_score": null,
+        "sort": [
+          1760248887523,
+          "0199d702-5647-7734-97e6-57cd2c848df3"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d702-5647-7734-97e6-57cd2c848df3/",
+        "screenshot": "https://urlscan.io/screenshots/0199d702-5647-7734-97e6-57cd2c848df3.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "planetwave.info",
+          "apexDomain": "planetwave.info",
+          "time": "2025-10-12T06:01:18.199Z",
+          "uuid": "0199d702-44c3-73df-a09c-e9311588ae9b",
+          "url": "http://planetwave.info/"
+        },
+        "stats": {
+          "uniqIPs": 16,
+          "uniqCountries": 3,
+          "dataLength": 1148175,
+          "encodedDataLength": 1142136,
+          "requests": 22
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 50,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | planetwave.info | Cloudflare",
+          "url": "https://planetwave.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 50,
+          "tlsValidFrom": "2025-08-22T10:40:11.000Z",
+          "domain": "planetwave.info",
+          "apexDomain": "planetwave.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d702-44c3-73df-a09c-e9311588ae9b",
+        "_score": null,
+        "sort": [
+          1760248878199,
+          "0199d702-44c3-73df-a09c-e9311588ae9b"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d702-44c3-73df-a09c-e9311588ae9b/",
+        "screenshot": "https://urlscan.io/screenshots/0199d702-44c3-73df-a09c-e9311588ae9b.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "planetseed.info",
+          "apexDomain": "planetseed.info",
+          "time": "2025-10-12T06:01:17.250Z",
+          "uuid": "0199d702-4119-7699-90c1-e23940fbfc39",
+          "url": "http://planetseed.info/"
+        },
+        "stats": {
+          "uniqIPs": 18,
+          "uniqCountries": 3,
+          "dataLength": 1148495,
+          "encodedDataLength": 1142403,
+          "requests": 22
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 51,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | planetseed.info | Cloudflare",
+          "url": "https://planetseed.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 51,
+          "tlsValidFrom": "2025-08-22T10:27:16.000Z",
+          "domain": "planetseed.info",
+          "apexDomain": "planetseed.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d702-4119-7699-90c1-e23940fbfc39",
+        "_score": null,
+        "sort": [
+          1760248877250,
+          "0199d702-4119-7699-90c1-e23940fbfc39"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d702-4119-7699-90c1-e23940fbfc39/",
+        "screenshot": "https://urlscan.io/screenshots/0199d702-4119-7699-90c1-e23940fbfc39.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "openlogic.info",
+          "apexDomain": "openlogic.info",
+          "time": "2025-10-12T06:00:14.672Z",
+          "uuid": "0199d701-4c64-7512-9005-fea9f3290648",
+          "url": "http://openlogic.info/"
+        },
+        "stats": {
+          "uniqIPs": 17,
+          "uniqCountries": 5,
+          "dataLength": 1149178,
+          "encodedDataLength": 1141803,
+          "requests": 20
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 51,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | openlogic.info | Cloudflare",
+          "url": "https://openlogic.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 51,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 51,
+          "tlsValidFrom": "2025-08-21T17:45:46.000Z",
+          "domain": "openlogic.info",
+          "apexDomain": "openlogic.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d701-4c64-7512-9005-fea9f3290648",
+        "_score": null,
+        "sort": [
+          1760248814672,
+          "0199d701-4c64-7512-9005-fea9f3290648"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d701-4c64-7512-9005-fea9f3290648/",
+        "screenshot": "https://urlscan.io/screenshots/0199d701-4c64-7512-9005-fea9f3290648.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "openlamp.info",
+          "apexDomain": "openlamp.info",
+          "time": "2025-10-12T06:00:14.319Z",
+          "uuid": "0199d701-48c7-759d-9ce8-068844e3a75e",
+          "url": "http://openlamp.info/"
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 3,
+          "dataLength": 429620,
+          "encodedDataLength": 420090,
+          "requests": 9
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 50,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | openlamp.info | Cloudflare",
+          "url": "https://openlamp.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 50,
+          "tlsValidFrom": "2025-08-22T10:30:07.000Z",
+          "domain": "openlamp.info",
+          "apexDomain": "openlamp.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d701-48c7-759d-9ce8-068844e3a75e",
+        "_score": null,
+        "sort": [
+          1760248814319,
+          "0199d701-48c7-759d-9ce8-068844e3a75e"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d701-48c7-759d-9ce8-068844e3a75e/",
+        "screenshot": "https://urlscan.io/screenshots/0199d701-48c7-759d-9ce8-068844e3a75e.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "nightmap.info",
+          "apexDomain": "nightmap.info",
+          "time": "2025-10-12T05:39:20.132Z",
+          "uuid": "0199d6ee-254a-771e-9122-b3825957e608",
+          "url": "http://nightmap.info/"
+        },
+        "stats": {
+          "uniqIPs": 10,
+          "uniqCountries": 2,
+          "dataLength": 636068,
+          "encodedDataLength": 625510,
+          "requests": 13
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 50,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | nightmap.info | Cloudflare",
+          "url": "https://nightmap.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 50,
+          "tlsValidFrom": "2025-08-22T10:45:24.000Z",
+          "domain": "nightmap.info",
+          "apexDomain": "nightmap.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ee-254a-771e-9122-b3825957e608",
+        "_score": null,
+        "sort": [
+          1760247560132,
+          "0199d6ee-254a-771e-9122-b3825957e608"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ee-254a-771e-9122-b3825957e608/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ee-254a-771e-9122-b3825957e608.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "nightleaf.info",
+          "apexDomain": "nightleaf.info",
+          "time": "2025-10-12T05:39:19.638Z",
+          "uuid": "0199d6ee-222c-7589-9799-523cb9d23d98",
+          "url": "http://nightleaf.info/"
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 2,
+          "dataLength": 228135,
+          "encodedDataLength": 216068,
+          "requests": 12
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 50,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | nightleaf.info | Cloudflare",
+          "url": "https://nightleaf.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 50,
+          "tlsValidFrom": "2025-08-22T10:29:11.000Z",
+          "domain": "nightleaf.info",
+          "apexDomain": "nightleaf.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ee-222c-7589-9799-523cb9d23d98",
+        "_score": null,
+        "sort": [
+          1760247559638,
+          "0199d6ee-222c-7589-9799-523cb9d23d98"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ee-222c-7589-9799-523cb9d23d98/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ee-222c-7589-9799-523cb9d23d98.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "newnote.info",
+          "apexDomain": "newnote.info",
+          "time": "2025-10-12T05:39:16.841Z",
+          "uuid": "0199d6ee-1b58-755e-ade6-8865ff9f8b2e",
+          "url": "http://newnote.info/"
+        },
+        "stats": {
+          "uniqIPs": 16,
+          "uniqCountries": 3,
+          "dataLength": 1147560,
+          "encodedDataLength": 1141349,
+          "requests": 19
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 50,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | newnote.info | Cloudflare",
+          "url": "https://newnote.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 50,
+          "tlsValidFrom": "2025-08-22T10:26:54.000Z",
+          "domain": "newnote.info",
+          "apexDomain": "newnote.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ee-1b58-755e-ade6-8865ff9f8b2e",
+        "_score": null,
+        "sort": [
+          1760247556841,
+          "0199d6ee-1b58-755e-ade6-8865ff9f8b2e"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ee-1b58-755e-ade6-8865ff9f8b2e/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ee-1b58-755e-ade6-8865ff9f8b2e.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "mindfocus.info",
+          "apexDomain": "mindfocus.info",
+          "time": "2025-10-12T05:39:07.905Z",
+          "uuid": "0199d6ed-f76a-77f0-ae15-c0ef600fcc2a",
+          "url": "http://mindfocus.info/"
+        },
+        "stats": {
+          "uniqIPs": 15,
+          "uniqCountries": 4,
+          "dataLength": 841343,
+          "encodedDataLength": 833287,
+          "requests": 18
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 870,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | mindfocus.info | Cloudflare",
+          "url": "https://mindfocus.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 51,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 870,
+          "tlsValidFrom": "2025-08-21T17:36:50.000Z",
+          "domain": "mindfocus.info",
+          "apexDomain": "mindfocus.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ed-f76a-77f0-ae15-c0ef600fcc2a",
+        "_score": null,
+        "sort": [
+          1760247547905,
+          "0199d6ed-f76a-77f0-ae15-c0ef600fcc2a"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ed-f76a-77f0-ae15-c0ef600fcc2a/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ed-f76a-77f0-ae15-c0ef600fcc2a.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "infoshift.info",
+          "apexDomain": "infoshift.info",
+          "time": "2025-10-12T05:38:35.540Z",
+          "uuid": "0199d6ed-73d0-73bd-8fe3-6e6fe5c1cfb2",
+          "url": "http://infoshift.info/"
+        },
+        "stats": {
+          "uniqIPs": 2,
+          "uniqCountries": 1,
+          "dataLength": 12092,
+          "encodedDataLength": 4686,
+          "requests": 4
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 51,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | infoshift.info | Cloudflare",
+          "url": "https://infoshift.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 51,
+          "tlsValidFrom": "2025-08-22T10:37:52.000Z",
+          "domain": "infoshift.info",
+          "apexDomain": "infoshift.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ed-73d0-73bd-8fe3-6e6fe5c1cfb2",
+        "_score": null,
+        "sort": [
+          1760247515540,
+          "0199d6ed-73d0-73bd-8fe3-6e6fe5c1cfb2"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ed-73d0-73bd-8fe3-6e6fe5c1cfb2/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ed-73d0-73bd-8fe3-6e6fe5c1cfb2.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "infocore.info",
+          "apexDomain": "infocore.info",
+          "time": "2025-10-12T05:38:32.035Z",
+          "uuid": "0199d6ed-6bf9-7658-b9e0-f8d73395d120",
+          "url": "http://infocore.info/"
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 2,
+          "dataLength": 22128,
+          "encodedDataLength": 10128,
+          "requests": 10
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 1059,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | infocore.info | Cloudflare",
+          "url": "https://infocore.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 1059,
+          "tlsValidFrom": "2025-08-22T10:40:48.000Z",
+          "domain": "infocore.info",
+          "apexDomain": "infocore.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ed-6bf9-7658-b9e0-f8d73395d120",
+        "_score": null,
+        "sort": [
+          1760247512035,
+          "0199d6ed-6bf9-7658-b9e0-f8d73395d120"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ed-6bf9-7658-b9e0-f8d73395d120/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ed-6bf9-7658-b9e0-f8d73395d120.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "greenbyte.info",
+          "apexDomain": "greenbyte.info",
+          "time": "2025-10-12T05:38:11.419Z",
+          "uuid": "0199d6ed-0b37-740d-b3c7-3ef7a2f4aa08",
+          "url": "http://greenbyte.info/"
+        },
+        "stats": {
+          "uniqIPs": 11,
+          "uniqCountries": 3,
+          "dataLength": 635755,
+          "encodedDataLength": 627940,
+          "requests": 15
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 688,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | greenbyte.info | Cloudflare",
+          "url": "https://greenbyte.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 688,
+          "tlsValidFrom": "2025-08-22T10:28:06.000Z",
+          "domain": "greenbyte.info",
+          "apexDomain": "greenbyte.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ed-0b37-740d-b3c7-3ef7a2f4aa08",
+        "_score": null,
+        "sort": [
+          1760247491419,
+          "0199d6ed-0b37-740d-b3c7-3ef7a2f4aa08"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ed-0b37-740d-b3c7-3ef7a2f4aa08/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ed-0b37-740d-b3c7-3ef7a2f4aa08.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "fastlogic.info",
+          "apexDomain": "fastlogic.info",
+          "time": "2025-10-12T05:37:36.845Z",
+          "uuid": "0199d6ec-93d6-7573-8d44-f9bef25a6735",
+          "url": "http://fastlogic.info/"
+        },
+        "stats": {
+          "uniqIPs": 20,
+          "uniqCountries": 4,
+          "dataLength": 1149519,
+          "encodedDataLength": 1143775,
+          "requests": 24
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 50,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | fastlogic.info | Cloudflare",
+          "url": "https://fastlogic.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 50,
+          "tlsValidFrom": "2025-08-22T10:31:32.000Z",
+          "domain": "fastlogic.info",
+          "apexDomain": "fastlogic.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ec-93d6-7573-8d44-f9bef25a6735",
+        "_score": null,
+        "sort": [
+          1760247456845,
+          "0199d6ec-93d6-7573-8d44-f9bef25a6735"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ec-93d6-7573-8d44-f9bef25a6735/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ec-93d6-7573-8d44-f9bef25a6735.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "dreampath.info",
+          "apexDomain": "dreampath.info",
+          "time": "2025-10-12T05:37:18.751Z",
+          "uuid": "0199d6ec-4dee-71ed-8ccd-261af0a0612b",
+          "url": "http://dreampath.info/"
+        },
+        "stats": {
+          "uniqIPs": 16,
+          "uniqCountries": 3,
+          "dataLength": 1147009,
+          "encodedDataLength": 1141250,
+          "requests": 19
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 3058,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | dreampath.info | Cloudflare",
+          "url": "https://dreampath.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 3058,
+          "tlsValidFrom": "2025-08-22T10:40:54.000Z",
+          "domain": "dreampath.info",
+          "apexDomain": "dreampath.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ec-4dee-71ed-8ccd-261af0a0612b",
+        "_score": null,
+        "sort": [
+          1760247438751,
+          "0199d6ec-4dee-71ed-8ccd-261af0a0612b"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ec-4dee-71ed-8ccd-261af0a0612b/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ec-4dee-71ed-8ccd-261af0a0612b.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "dreamlamp.info",
+          "apexDomain": "dreamlamp.info",
+          "time": "2025-10-12T05:37:17.965Z",
+          "uuid": "0199d6ec-49f0-7486-875c-ad8b8b09e690",
+          "url": "http://dreamlamp.info/"
+        },
+        "stats": {
+          "uniqIPs": 17,
+          "uniqCountries": 4,
+          "dataLength": 1148045,
+          "encodedDataLength": 1142649,
+          "requests": 21
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 50,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | dreamlamp.info | Cloudflare",
+          "url": "https://dreamlamp.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 50,
+          "tlsValidFrom": "2025-08-22T10:39:41.000Z",
+          "domain": "dreamlamp.info",
+          "apexDomain": "dreamlamp.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ec-49f0-7486-875c-ad8b8b09e690",
+        "_score": null,
+        "sort": [
+          1760247437965,
+          "0199d6ec-49f0-7486-875c-ad8b8b09e690"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ec-49f0-7486-875c-ad8b8b09e690/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ec-49f0-7486-875c-ad8b8b09e690.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "dailyvision.info",
+          "apexDomain": "dailyvision.info",
+          "time": "2025-10-12T05:37:09.830Z",
+          "uuid": "0199d6ec-20c4-740c-b71f-6937aa96d1f1",
+          "url": "http://dailyvision.info/"
+        },
+        "stats": {
+          "uniqIPs": 10,
+          "uniqCountries": 2,
+          "dataLength": 532602,
+          "encodedDataLength": 522485,
+          "requests": 12
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 51,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | dailyvision.info | Cloudflare",
+          "url": "https://dailyvision.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 51,
+          "tlsValidFrom": "2025-08-22T10:27:44.000Z",
+          "domain": "dailyvision.info",
+          "apexDomain": "dailyvision.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ec-20c4-740c-b71f-6937aa96d1f1",
+        "_score": null,
+        "sort": [
+          1760247429830,
+          "0199d6ec-20c4-740c-b71f-6937aa96d1f1"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ec-20c4-740c-b71f-6937aa96d1f1/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ec-20c4-740c-b71f-6937aa96d1f1.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "dailytrack.info",
+          "apexDomain": "dailytrack.info",
+          "time": "2025-10-12T05:37:06.368Z",
+          "uuid": "0199d6ec-1d2d-75d2-b5fd-274a3b44b70d",
+          "url": "http://dailytrack.info/"
+        },
+        "stats": {
+          "uniqIPs": 14,
+          "uniqCountries": 3,
+          "dataLength": 1147250,
+          "encodedDataLength": 1141262,
+          "requests": 19
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 51,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | dailytrack.info | Cloudflare",
+          "url": "https://dailytrack.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 51,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 51,
+          "tlsValidFrom": "2025-08-21T17:37:31.000Z",
+          "domain": "dailytrack.info",
+          "apexDomain": "dailytrack.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ec-1d2d-75d2-b5fd-274a3b44b70d",
+        "_score": null,
+        "sort": [
+          1760247426368,
+          "0199d6ec-1d2d-75d2-b5fd-274a3b44b70d"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ec-1d2d-75d2-b5fd-274a3b44b70d/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ec-1d2d-75d2-b5fd-274a3b44b70d.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "dailybridge.info",
+          "apexDomain": "dailybridge.info",
+          "time": "2025-10-12T05:37:04.894Z",
+          "uuid": "0199d6ec-17cd-758e-967c-f2c1e707eb7a",
+          "url": "http://dailybridge.info/"
+        },
+        "stats": {
+          "uniqIPs": 18,
+          "uniqCountries": 4,
+          "dataLength": 1148484,
+          "encodedDataLength": 1141950,
+          "requests": 22
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 51,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | dailybridge.info | Cloudflare",
+          "url": "https://dailybridge.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 51,
+          "tlsValidFrom": "2025-08-22T10:40:01.000Z",
+          "domain": "dailybridge.info",
+          "apexDomain": "dailybridge.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6ec-17cd-758e-967c-f2c1e707eb7a",
+        "_score": null,
+        "sort": [
+          1760247424894,
+          "0199d6ec-17cd-758e-967c-f2c1e707eb7a"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ec-17cd-758e-967c-f2c1e707eb7a/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ec-17cd-758e-967c-f2c1e707eb7a.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "coolbridge.info",
+          "apexDomain": "coolbridge.info",
+          "time": "2025-10-12T05:36:50.498Z",
+          "uuid": "0199d6eb-dcb4-708e-ab22-581413c9252e",
+          "url": "http://coolbridge.info/"
+        },
+        "stats": {
+          "uniqIPs": 9,
+          "uniqCountries": 2,
+          "dataLength": 176082,
+          "encodedDataLength": 113397,
+          "requests": 11
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 51,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | coolbridge.info | Cloudflare",
+          "url": "https://coolbridge.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 51,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 51,
+          "tlsValidFrom": "2025-08-21T17:46:38.000Z",
+          "domain": "coolbridge.info",
+          "apexDomain": "coolbridge.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6eb-dcb4-708e-ab22-581413c9252e",
+        "_score": null,
+        "sort": [
+          1760247410498,
+          "0199d6eb-dcb4-708e-ab22-581413c9252e"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6eb-dcb4-708e-ab22-581413c9252e/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6eb-dcb4-708e-ab22-581413c9252e.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "cloudmap.info",
+          "apexDomain": "cloudmap.info",
+          "time": "2025-10-12T05:36:46.620Z",
+          "uuid": "0199d6eb-cedb-772a-8cec-65092220e5df",
+          "url": "http://cloudmap.info/"
+        },
+        "stats": {
+          "uniqIPs": 14,
+          "uniqCountries": 3,
+          "dataLength": 1146433,
+          "encodedDataLength": 1140341,
+          "requests": 18
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 970,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | cloudmap.info | Cloudflare",
+          "url": "https://cloudmap.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 51,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 970,
+          "tlsValidFrom": "2025-08-21T17:45:06.000Z",
+          "domain": "cloudmap.info",
+          "apexDomain": "cloudmap.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6eb-cedb-772a-8cec-65092220e5df",
+        "_score": null,
+        "sort": [
+          1760247406620,
+          "0199d6eb-cedb-772a-8cec-65092220e5df"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6eb-cedb-772a-8cec-65092220e5df/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6eb-cedb-772a-8cec-65092220e5df.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "cleargrid.info",
+          "apexDomain": "cleargrid.info",
+          "time": "2025-10-12T05:36:45.418Z",
+          "uuid": "0199d6eb-c596-76e9-9b50-060f5e91f0fc",
+          "url": "http://cleargrid.info/"
+        },
+        "stats": {
+          "uniqIPs": 15,
+          "uniqCountries": 3,
+          "dataLength": 1146944,
+          "encodedDataLength": 1140615,
+          "requests": 17
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "https-only",
+          "ip": "1.1.1.1",
+          "apexDomainAgeDays": 881,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Edge IP Restricted | cleargrid.info | Cloudflare",
+          "url": "https://cleargrid.info/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 50,
+          "ptr": "one.one.one.one",
+          "domainAgeDays": 881,
+          "tlsValidFrom": "2025-08-22T10:43:01.000Z",
+          "domain": "cleargrid.info",
+          "apexDomain": "cleargrid.info",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "403"
+        },
+        "_id": "0199d6eb-c596-76e9-9b50-060f5e91f0fc",
+        "_score": null,
+        "sort": [
+          1760247405418,
+          "0199d6eb-c596-76e9-9b50-060f5e91f0fc"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6eb-c596-76e9-9b50-060f5e91f0fc/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6eb-c596-76e9-9b50-060f5e91f0fc.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "rewards-shibainu.com",
+          "apexDomain": "rewards-shibainu.com",
+          "time": "2025-10-12T05:35:13.310Z",
+          "uuid": "0199d6ea-46d2-765d-9428-9a09c95775ad",
+          "url": "https://rewards-shibainu.com/?NiceTryScvmbagIvan",
+          "tags": [
+            "phishing",
+            "spamreports",
+            "malicious"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 9,
+          "uniqCountries": 2,
+          "dataLength": 11322875,
+          "encodedDataLength": 6152705,
+          "requests": 19
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "104.21.27.200",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Shib.io | Home of the Shiba Inu (SHIB) Ecosystem.",
+          "url": "https://rewards-shibainu.votings.workers.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 0,
+          "tlsValidFrom": "2025-10-10T01:24:37.000Z",
+          "domain": "rewards-shibainu.votings.workers.dev",
+          "apexDomain": "votings.workers.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d6ea-46d2-765d-9428-9a09c95775ad",
+        "_score": null,
+        "sort": [
+          1760247313310,
+          "0199d6ea-46d2-765d-9428-9a09c95775ad"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6ea-46d2-765d-9428-9a09c95775ad/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6ea-46d2-765d-9428-9a09c95775ad.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-yieldbasis.app",
+          "apexDomain": "claim-yieldbasis.app",
+          "time": "2025-10-12T05:31:31.212Z",
+          "uuid": "0199d6e6-fcf8-7556-b6bc-15d6dc1f3d01",
+          "url": "https://claim-yieldbasis.app/?NiceTryScvmbagIvan",
+          "tags": [
+            "phishing",
+            "spamreports",
+            "malicious"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 3,
+          "dataLength": 5233701,
+          "encodedDataLength": 4593700,
+          "requests": 47
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Yield Basis",
+          "url": "https://claim-yieldbasis.app/?NiceTryScvmbagIvan",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 1,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T15:04:27.000Z",
+          "domain": "claim-yieldbasis.app",
+          "apexDomain": "claim-yieldbasis.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d6e6-fcf8-7556-b6bc-15d6dc1f3d01",
+        "_score": null,
+        "sort": [
+          1760247091212,
+          "0199d6e6-fcf8-7556-b6bc-15d6dc1f3d01"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6e6-fcf8-7556-b6bc-15d6dc1f3d01/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6e6-fcf8-7556-b6bc-15d6dc1f3d01.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-walrus.app",
+          "apexDomain": "claim-walrus.app",
+          "time": "2025-10-12T05:31:26.291Z",
+          "uuid": "0199d6e6-e9d3-7403-afeb-23249b1d357d",
+          "url": "https://claim-walrus.app/?NiceTryScvmbagIvan",
+          "tags": [
+            "phishing",
+            "spamreports",
+            "malicious"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 3,
+          "dataLength": 4315929,
+          "encodedDataLength": 3518634,
+          "requests": 23
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 1,
+          "mimeType": "text/html",
+          "title": "Walrus Claiming Portal",
+          "url": "https://claim-walrus.app/?NiceTryScvmbagIvan",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 1,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T15:04:24.000Z",
+          "domain": "claim-walrus.app",
+          "apexDomain": "claim-walrus.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d6e6-e9d3-7403-afeb-23249b1d357d",
+        "_score": null,
+        "sort": [
+          1760247086291,
+          "0199d6e6-e9d3-7403-afeb-23249b1d357d"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6e6-e9d3-7403-afeb-23249b1d357d/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6e6-e9d3-7403-afeb-23249b1d357d.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-grass.app",
+          "apexDomain": "claim-grass.app",
+          "time": "2025-10-12T05:31:13.545Z",
+          "uuid": "0199d6e6-b214-7464-9f2b-3d76636791a5",
+          "url": "https://claim-grass.app/?NiceTryScvmbagIvan",
+          "tags": [
+            "phishing",
+            "spamreports",
+            "malicious"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 3,
+          "dataLength": 7500773,
+          "encodedDataLength": 6905465,
+          "requests": 28
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Get rewarded for the internet you don't use",
+          "url": "https://claim-grass.app/?NiceTryScvmbagIvan",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 2,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 2,
+          "tlsValidFrom": "2025-10-09T13:38:30.000Z",
+          "domain": "claim-grass.app",
+          "apexDomain": "claim-grass.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d6e6-b214-7464-9f2b-3d76636791a5",
+        "_score": null,
+        "sort": [
+          1760247073545,
+          "0199d6e6-b214-7464-9f2b-3d76636791a5"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6e6-b214-7464-9f2b-3d76636791a5/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6e6-b214-7464-9f2b-3d76636791a5.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-everlyn.app",
+          "apexDomain": "claim-everlyn.app",
+          "time": "2025-10-12T05:31:09.680Z",
+          "uuid": "0199d6e6-a085-730f-8e13-d0773dc65915",
+          "url": "https://claim-everlyn.app/?NiceTryScvmbagIvan",
+          "tags": [
+            "phishing",
+            "spamreports",
+            "malicious"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 3,
+          "dataLength": 20367878,
+          "encodedDataLength": 14257130,
+          "requests": 63
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Everlyn AI-Free Fast Unlimited AI Video and Image Generator",
+          "url": "https://claim-everlyn.app/?NiceTryScvmbagIvan",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 2,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 2,
+          "tlsValidFrom": "2025-10-09T13:27:58.000Z",
+          "domain": "claim-everlyn.app",
+          "apexDomain": "claim-everlyn.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R12",
+          "status": "200"
+        },
+        "_id": "0199d6e6-a085-730f-8e13-d0773dc65915",
+        "_score": null,
+        "sort": [
+          1760247069680,
+          "0199d6e6-a085-730f-8e13-d0773dc65915"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6e6-a085-730f-8e13-d0773dc65915/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6e6-a085-730f-8e13-d0773dc65915.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "claim-evaaprotocol.app",
+          "apexDomain": "claim-evaaprotocol.app",
+          "time": "2025-10-12T05:31:03.790Z",
+          "uuid": "0199d6e6-8e96-7004-a758-61871bc835f6",
+          "url": "https://claim-evaaprotocol.app/?NiceTryScvmbagIvan",
+          "tags": [
+            "phishing",
+            "spamreports",
+            "malicious"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 6,
+          "uniqCountries": 3,
+          "dataLength": 4452176,
+          "encodedDataLength": 3855597,
+          "requests": 22
+        },
+        "page": {
+          "country": "NL",
+          "server": "nginx",
+          "ip": "37.16.75.129",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "EVAA - The first decentralized lending protocol on TON",
+          "url": "https://claim-evaaprotocol.app/?NiceTryScvmbagIvan",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 2,
+          "ptr": "ctccsk-2t-ddos-jf.com",
+          "domainAgeDays": 2,
+          "tlsValidFrom": "2025-10-09T12:59:52.000Z",
+          "domain": "claim-evaaprotocol.app",
+          "apexDomain": "claim-evaaprotocol.app",
+          "asnname": "Sollutium-NL SOLLUTIUM EU Sp z.o.o., PL",
+          "asn": "AS43641",
+          "tlsIssuer": "R13",
+          "status": "200"
+        },
+        "_id": "0199d6e6-8e96-7004-a758-61871bc835f6",
+        "_score": null,
+        "sort": [
+          1760247063790,
+          "0199d6e6-8e96-7004-a758-61871bc835f6"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d6e6-8e96-7004-a758-61871bc835f6/",
+        "screenshot": "https://urlscan.io/screenshots/0199d6e6-8e96-7004-a758-61871bc835f6.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "voting-predi.pages.dev",
+          "apexDomain": "voting-predi.pages.dev",
+          "time": "2025-10-12T03:38:04.770Z",
+          "uuid": "0199d67f-20cb-77fe-a014-9e63b4fc9f4d",
+          "url": "https://voting-predi.pages.dev/"
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 3,
+          "dataLength": 5827662,
+          "encodedDataLength": 1277919,
+          "requests": 20
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "172.66.46.254",
+          "apexDomainAgeDays": 1,
+          "language": "en",
+          "mimeType": "text/html",
+          "url": "https://voting-predi.pages.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 1,
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T07:20:34.000Z",
+          "domain": "voting-predi.pages.dev",
+          "apexDomain": "voting-predi.pages.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d67f-20cb-77fe-a014-9e63b4fc9f4d",
+        "_score": null,
+        "sort": [
+          1760240284770,
+          "0199d67f-20cb-77fe-a014-9e63b4fc9f4d"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d67f-20cb-77fe-a014-9e63b4fc9f4d/",
+        "screenshot": "https://urlscan.io/screenshots/0199d67f-20cb-77fe-a014-9e63b4fc9f4d.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "plasmagetclaim.xyz",
+          "apexDomain": "plasmagetclaim.xyz",
+          "time": "2025-10-12T02:22:27.282Z",
+          "uuid": "0199d639-dd09-70e5-acab-ea56ceb93c73",
+          "url": "https://plasmagetclaim.xyz/"
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 2,
+          "dataLength": 8168794,
+          "encodedDataLength": 2056831,
+          "requests": 16
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "104.21.55.43",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Plasma - A high\u2011throughput, EVM\u2011compatible stablecoin chain",
+          "url": "https://plasmagetclaim.xyz/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 2,
+          "tlsValidFrom": "2025-10-09T23:54:42.000Z",
+          "domain": "plasmagetclaim.xyz",
+          "apexDomain": "plasmagetclaim.xyz",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d639-dd09-70e5-acab-ea56ceb93c73",
+        "_score": null,
+        "sort": [
+          1760235747282,
+          "0199d639-dd09-70e5-acab-ea56ceb93c73"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d639-dd09-70e5-acab-ea56ceb93c73/",
+        "screenshot": "https://urlscan.io/screenshots/0199d639-dd09-70e5-acab-ea56ceb93c73.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "plasmagetclaim.xyz",
+          "apexDomain": "plasmagetclaim.xyz",
+          "time": "2025-10-12T02:17:29.224Z",
+          "uuid": "0199d635-491f-7712-8847-d8a84fb9d29a",
+          "url": "https://plasmagetclaim.xyz/",
+          "tags": [
+            "@phish_report"
+          ]
+        },
+        "stats": {
+          "uniqIPs": 8,
+          "uniqCountries": 2,
+          "dataLength": 8168776,
+          "encodedDataLength": 2056641,
+          "requests": 16
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "104.21.55.43",
+          "apexDomainAgeDays": 2,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "Plasma - A high\u2011throughput, EVM\u2011compatible stablecoin chain",
+          "url": "https://plasmagetclaim.xyz/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 2,
+          "domainAgeDays": 2,
+          "tlsValidFrom": "2025-10-09T23:54:42.000Z",
+          "domain": "plasmagetclaim.xyz",
+          "apexDomain": "plasmagetclaim.xyz",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d635-491f-7712-8847-d8a84fb9d29a",
+        "_score": null,
+        "sort": [
+          1760235449224,
+          "0199d635-491f-7712-8847-d8a84fb9d29a"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d635-491f-7712-8847-d8a84fb9d29a/",
+        "screenshot": "https://urlscan.io/screenshots/0199d635-491f-7712-8847-d8a84fb9d29a.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "voting-predi.pages.dev",
+          "apexDomain": "voting-predi.pages.dev",
+          "time": "2025-10-12T00:39:14.648Z",
+          "uuid": "0199d5db-67a7-73a0-9da2-8aa92f275069",
+          "url": "https://voting-predi.pages.dev/"
+        },
+        "stats": {
+          "uniqIPs": 7,
+          "uniqCountries": 2,
+          "dataLength": 5812988,
+          "encodedDataLength": 1311348,
+          "requests": 20
+        },
+        "page": {
+          "server": "cloudflare",
+          "ip": "172.66.46.254",
+          "apexDomainAgeDays": 1,
+          "language": "en",
+          "mimeType": "text/html",
+          "url": "https://voting-predi.pages.dev/",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 1,
+          "domainAgeDays": 1,
+          "tlsValidFrom": "2025-10-10T07:20:34.000Z",
+          "domain": "voting-predi.pages.dev",
+          "apexDomain": "voting-predi.pages.dev",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d5db-67a7-73a0-9da2-8aa92f275069",
+        "_score": null,
+        "sort": [
+          1760229554648,
+          "0199d5db-67a7-73a0-9da2-8aa92f275069"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d5db-67a7-73a0-9da2-8aa92f275069/",
+        "screenshot": "https://urlscan.io/screenshots/0199d5db-67a7-73a0-9da2-8aa92f275069.png"
+      },
+      {
+        "submitter": {},
+        "task": {
+          "visibility": "public",
+          "method": "api",
+          "domain": "www.faceit.com",
+          "apexDomain": "faceit.com",
+          "time": "2025-10-11T23:03:06.059Z",
+          "uuid": "0199d583-530f-775b-8e58-7951d6e3ec3e",
+          "url": "https://www.faceit.com/"
+        },
+        "stats": {
+          "uniqIPs": 21,
+          "uniqCountries": 3,
+          "dataLength": 21804542,
+          "encodedDataLength": 7025671,
+          "requests": 333
+        },
+        "page": {
+          "server": "cloudflare",
+          "redirected": "same-domain",
+          "ip": "104.17.159.184",
+          "apexDomainAgeDays": 4093,
+          "language": "en",
+          "mimeType": "text/html",
+          "title": "FACEIT.com",
+          "url": "https://www.faceit.com/en",
+          "tlsValidDays": 90,
+          "tlsAgeDays": 17,
+          "domainAgeDays": 4053,
+          "tlsValidFrom": "2025-09-24T07:58:38.000Z",
+          "domain": "www.faceit.com",
+          "umbrellaRank": 104874,
+          "apexDomain": "faceit.com",
+          "asnname": "CLOUDFLARENET, US",
+          "asn": "AS13335",
+          "tlsIssuer": "WE1",
+          "status": "200"
+        },
+        "_id": "0199d583-530f-775b-8e58-7951d6e3ec3e",
+        "_score": null,
+        "sort": [
+          1760223786059,
+          "0199d583-530f-775b-8e58-7951d6e3ec3e"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d583-530f-775b-8e58-7951d6e3ec3e/",
+        "screenshot": "https://urlscan.io/screenshots/0199d583-530f-775b-8e58-7951d6e3ec3e.png"
+      },
+      {
+        "task": {
+          "visibility": "public",
+          "method": "automatic",
+          "domain": "pokies4realmoney.com",
+          "apexDomain": "pokies4realmoney.com",
+          "time": "2025-10-11T19:20:25.047Z",
+          "source": "certstream-suspicious",
+          "uuid": "0199d4b7-7cdf-70fa-9583-e29f36df3818",
+          "url": "https://pokies4realmoney.com/"
+        },
+        "stats": {
+          "uniqIPs": 27,
+          "uniqCountries": 5,
+          "dataLength": 17381850,
+          "encodedDataLength": 11346617,
+          "requests": 187
+        },
+        "page": {
+          "country": "SC",
+          "server": "cloudflare",
+          "redirected": "off-domain",
+          "ip": "154.218.15.1",
+          "apexDomainAgeDays": 2075,
+          "language": "de",
+          "mimeType": "text/html",
+          "title": "Online-Casino 2025 \u2013 Spielen Sie zum Spa\u00df oder um echtes Geld | MoonWin Casino",
+          "url": "https://www.moonwin.com/?stag=220437_68eaadf3cdb9979268cb861d&sign-up=modal&tracking_link=http%3A%2F%2Fclickmoonpart.com%2Fa4fae354c&__layerref=",
+          "tlsValidDays": 89,
+          "tlsAgeDays": 18,
+          "domainAgeDays": 1080,
+          "tlsValidFrom": "2025-09-23T08:03:15.000Z",
+          "domain": "www.moonwin.com",
+          "apexDomain": "moonwin.com",
+          "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+          "asn": "AS209242",
+          "tlsIssuer": "E8",
+          "status": "200"
+        },
+        "_id": "0199d4b7-7cdf-70fa-9583-e29f36df3818",
+        "_score": null,
+        "sort": [
+          1760210425047,
+          "0199d4b7-7cdf-70fa-9583-e29f36df3818"
+        ],
+        "result": "https://urlscan.io/api/v1/result/0199d4b7-7cdf-70fa-9583-e29f36df3818/",
+        "screenshot": "https://urlscan.io/screenshots/0199d4b7-7cdf-70fa-9583-e29f36df3818.png"
+      }
+    ],
+    "total": 10000,
+    "took": 57,
+    "has_more": true
+  }
+]

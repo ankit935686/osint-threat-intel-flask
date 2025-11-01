@@ -106,12 +106,25 @@ class OSINTPipeline:
         """Collect data from all sources"""
         self.logger.info("Starting data collection from all sources")
         
+        # If no indicators provided, use known malicious indicators for testing
+        if not indicators:
+            from collectors.threat_feeds import get_all_indicators
+            indicators = get_all_indicators()
+            self.logger.info(f"No indicators provided, using {len(indicators)} test indicators from threat feeds")
+        
         all_data = {}
         
         for source_name, collector in self.collectors.items():
             try:
                 self.logger.info(f"Collecting from {source_name}")
-                data = collector.collect(indicators)
+                
+                # AlienVault can work without indicators (uses subscribed pulses)
+                if source_name == 'alienvault':
+                    data = collector.collect(None)  # Let it use subscribed pulses
+                else:
+                    # Other sources need specific indicators
+                    data = collector.collect(indicators)
+                
                 all_data[source_name] = data
                 
                 # Save raw data

@@ -4,74 +4,136 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OSINT Threat Intelligence Dashboard</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>🛡️ OSINT Threat Intelligence Dashboard</h1>
-            <p>Real-time threat intelligence from multiple sources</p>
-        </header>
-
-        <div class="stats-grid">
-            <div class="stat-card">
-                <h3>Total Indicators</h3>
-                <div id="total-indicators" class="stat-number">0</div>
+    <div class="dashboard-wrapper">
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <i class="fas fa-shield-alt"></i>
+                </div>
+                <h1>ThreatIntel</h1>
             </div>
-            <div class="stat-card">
-                <h3>High Risk</h3>
-                <div id="high-risk" class="stat-number risk-high">0</div>
-            </div>
-            <div class="stat-card">
-                <h3>Sources</h3>
-                <div id="total-sources" class="stat-number">0</div>
-            </div>
-            <div class="stat-card">
-                <h3>Last Updated</h3>
-                <div id="last-updated" class="stat-number">Never</div>
-            </div>
-        </div>
-
-        <div class="charts-row">
-            <div class="chart-container">
-                <h3>Threat Score Distribution</h3>
-                <div id="score-chart"></div>
-            </div>
-            <div class="chart-container">
-                <h3>Indicator Types</h3>
-                <div id="type-chart"></div>
+            <nav class="sidebar-nav">
+                <ul>
+                    <li class="active"><i class="fas fa-tachometer-alt"></i> Dashboard</li>
+                    <li><i class="fas fa-chart-line"></i> Analytics</li>
+                    <li><i class="fas fa-search"></i> Investigations</li>
+                    <li><i class="fas fa-cog"></i> Settings</li>
+                </ul>
+            </nav>
+            <div class="sidebar-footer">
+                <p>v1.0.0</p>
+                <div id="update-status" class="status-indicator">
+                    <span class="status-dot active"></span> Live updates enabled
+                </div>
             </div>
         </div>
 
-        <div class="threat-list">
-            <h3>Top Threats</h3>
-            <div id="threat-table">
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Indicator</th>
-                            <th>Type</th>
-                            <th>Risk Level</th>
-                            <th>Score</th>
-                            <th>Sources</th>
-                            <th>Last Seen</th>
-                        </tr>
-                    </thead>
-                    <tbody id="threat-table-body">
-                        <!-- Populated by JavaScript -->
-                    </tbody>
-                </table>
-            </div>
-        </div>
+        <div class="main-content">
+            <header class="dashboard-header">
+                <div class="header-title">
+                    <h1>Threat Intelligence Dashboard</h1>
+                    <p>Real-time intelligence from multiple sources</p>
+                </div>
+                <div class="header-actions">
+                    <button id="refresh-button" class="refresh-button">
+                        <i class="fas fa-sync-alt"></i> Refresh Now
+                    </button>
+                </div>
+            </header>
 
-        <div class="section-header">
-            <h2>Source-Specific Analysis</h2>
-            <p>Detailed breakdown of threat intelligence by source</p>
-        </div>
-        
-        <div class="source-metrics-container" id="source-metrics-container">
-            <!-- Populated by JavaScript -->
+            <div class="content-wrapper">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon">
+                            <i class="fas fa-database"></i>
+                        </div>
+                        <div class="stat-details">
+                            <h3>Total Indicators</h3>
+                            <div id="total-indicators" class="stat-number">0</div>
+                        </div>
+                    </div>
+                    <div class="stat-card danger">
+                        <div class="stat-icon">
+                            <i class="fas fa-exclamation-triangle"></i>
+                        </div>
+                        <div class="stat-details">
+                            <h3>High Risk</h3>
+                            <div id="high-risk" class="stat-number">0</div>
+                        </div>
+                    </div>
+                    <div class="stat-card info">
+                        <div class="stat-icon">
+                            <i class="fas fa-sitemap"></i>
+                        </div>
+                        <div class="stat-details">
+                            <h3>Sources</h3>
+                            <div id="total-sources" class="stat-number">0</div>
+                        </div>
+                    </div>
+                    <div class="stat-card success">
+                        <div class="stat-icon">
+                            <i class="fas fa-clock"></i>
+                        </div>
+                        <div class="stat-details">
+                            <h3>Last Updated</h3>
+                            <div id="last-updated" class="stat-number">Never</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="dashboard-row">
+                    <div class="chart-container">
+                        <div class="chart-header">
+                            <h3><i class="fas fa-chart-bar"></i> Threat Score Distribution</h3>
+                        </div>
+                        <div id="score-chart" class="chart-body"></div>
+                    </div>
+                    <div class="chart-container">
+                        <div class="chart-header">
+                            <h3><i class="fas fa-chart-pie"></i> Indicator Types</h3>
+                        </div>
+                        <div id="type-chart" class="chart-body"></div>
+                    </div>
+                </div>
+
+                <div class="dashboard-row">
+                    <div class="table-container">
+                        <div class="table-header">
+                            <h3><i class="fas fa-list"></i> Top Threats</h3>
+                        </div>
+                        <div class="table-body">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Indicator</th>
+                                        <th>Type</th>
+                                        <th>Risk Level</th>
+                                        <th>Score</th>
+                                        <th>Sources</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="threat-table-body">
+                                    <!-- Populated by JavaScript -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section-divider">
+                    <h2><i class="fas fa-layer-group"></i> Source-Specific Analysis</h2>
+                    <p>Detailed breakdown of threat intelligence by data source</p>
+                </div>
+                
+                <div class="source-metrics-grid" id="source-metrics-container">
+                    <!-- Populated by JavaScript -->
+                </div>
+            </div>
         </div>
     </div>
 

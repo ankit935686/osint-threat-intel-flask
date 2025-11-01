@@ -175,21 +175,32 @@ class IndicatorNormalizer:
     
     def _normalize_abuseipdb(self, item: Dict) -> Dict:
         """Normalize AbuseIPDB data"""
+        # AbuseIPDB returns data wrapped in 'data' key
+        data = item.get('data', item)
+        
         normalized = {
-            'indicator': item.get('ipAddress', ''),
+            'indicator': data.get('ipAddress', ''),
             'type': 'ip',
             'source': 'abuseipdb',
-            'first_seen': item.get('reportedAt', ''),
+            'first_seen': data.get('lastReportedAt', datetime.now().isoformat()),
             'last_seen': datetime.now().isoformat(),
-            'confidence': min(item.get('abuseConfidenceScore', 0) / 100, 1.0),
-            'severity': 'critical' if item.get('abuseConfidenceScore', 0) > 80 else 'high',
-            'tags': item.get('usageType', '').split(',') if item.get('usageType') else [],
-            'description': f"Abuse confidence: {item.get('abuseConfidenceScore', 0)}%",
+            'confidence': min(data.get('abuseConfidenceScore', 0) / 100, 1.0),
+            'severity': 'critical' if data.get('abuseConfidenceScore', 0) > 80 else 'high',
+            'tags': [data.get('usageType', 'unknown')] if data.get('usageType') else [],
+            'description': f"Abuse confidence: {data.get('abuseConfidenceScore', 0)}%, Reports: {data.get('totalReports', 0)}",
             'raw_data': item,
-            'country': item.get('countryCode', '')
+            'country': data.get('countryCode', ''),
+            'asn': '',
+            'organization': data.get('isp', ''),
+            'latitude': '',
+            'longitude': '',
+            'ports': [],
+            'services': [],
+            'malware_families': [],
+            'references': []
         }
         
-        return {**{field: '' for field in self.common_fields}, **normalized}
+        return normalized
     
     def _normalize_generic(self, item: Dict, source: str) -> Dict:
         """Generic normalization for unknown sources"""

@@ -1,0 +1,94 @@
+[
+  {
+    "data": {
+      "ipAddress": "1.234.21.73",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 0,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "SK Broadband Co Ltd",
+      "domain": "skbroadband.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1,
+      "numDistinctUsers": 1,
+      "lastReportedAt": "2025-09-05T04:03:14+00:00"
+    }
+  },
+  {
+    "data": {
+      "ipAddress": "45.155.205.233",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 0,
+      "countryCode": "RU",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Cloud Technologies LLC trading as Cloud.ru",
+      "domain": "cloud.ru",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 0,
+      "numDistinctUsers": 0,
+      "lastReportedAt": "2025-01-24T09:58:11+00:00"
+    }
+  },
+  {
+    "data": {
+      "ipAddress": "185.220.101.1",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "DE",
+      "usageType": "Fixed Line ISP",
+      "isp": "Artikel10 e.V.",
+      "domain": "artikel10.org",
+      "hostnames": [
+        "berlin01.tor-exit.artikel10.org"
+      ],
+      "isTor": true,
+      "totalReports": 195,
+      "numDistinctUsers": 78,
+      "lastReportedAt": "2025-10-31T20:06:52+00:00"
+    }
+  },
+  {
+    "data": {
+      "ipAddress": "91.219.236.218",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 0,
+      "countryCode": "HU",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "ServerAstra Kft.",
+      "domain": "serverastra.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 0,
+      "numDistinctUsers": 0,
+      "lastReportedAt": "2024-10-01T05:39:04+00:00"
+    }
+  },
+  {
+    "data": {
+      "ipAddress": "104.248.144.120",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 0,
+      "countryCode": "SG",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "DigitalOcean, LLC",
+      "domain": "digitalocean.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 0,
+      "numDistinctUsers": 0,
+      "lastReportedAt": "2022-12-08T16:25:05+00:00"
+    }
+  }
+]

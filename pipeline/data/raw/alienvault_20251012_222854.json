@@ -1,0 +1,2054 @@
+[
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651469,
+    "indicator": "86b32049a679b945a803b32e58ba9462",
+    "type": "FileHash-MD5",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651470,
+    "indicator": "cd0c6cb4807f5266df4c34846e5a3250",
+    "type": "FileHash-MD5",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651471,
+    "indicator": "b9df6e383de60d6c91d4953face7ba335af78481",
+    "type": "FileHash-SHA1",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651472,
+    "indicator": "d94a15b3585336943154dae4ae5f2b78975b4a74",
+    "type": "FileHash-SHA1",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651473,
+    "indicator": "1b272eb601bd48d296995d73f2cdda54ae5f9fa534efc5a6f1dab3e879014b57",
+    "type": "FileHash-SHA256",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651474,
+    "indicator": "3552b1fded77d4c0ec440f596de12f33be29c5a0b5463fd157c0d27259e5a2df",
+    "type": "FileHash-SHA256",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651475,
+    "indicator": "37fc6016eea22ac5692694835dda5e590dc68412ac3a1523ba2792428053fbf4",
+    "type": "FileHash-SHA256",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651476,
+    "indicator": "50258134199482753e9ba3e04d8265d5f64d73a5099f689abcd1c93b5a1b80ee",
+    "type": "FileHash-SHA256",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651477,
+    "indicator": "52273e057552d886effa29cd2e78836e906ca167f65dd8a6b6a6c1708ffdfcfd",
+    "type": "FileHash-SHA256",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651478,
+    "indicator": "782b07c9af047cdeda6ba036cfc30c5be8edfbbf0d22f2c110fd0eb1a1a8e57d",
+    "type": "FileHash-SHA256",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651479,
+    "indicator": "921016a014af73579abc94c891cd5c20c6822f69421f27b24f8e0a044fa10184",
+    "type": "FileHash-SHA256",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651480,
+    "indicator": "c03eedf04f19fcce9c9b4e5ad1b0f7b69abc4bce7fb551833f37c81acf2c041e",
+    "type": "FileHash-SHA256",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651481,
+    "indicator": "d0068b92aced77b7a54bd8722ad0fd1037a28821d370cf7e67cbf6fd70a608c4",
+    "type": "FileHash-SHA256",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4129651482,
+    "indicator": "e2b3c5fdcba20c93cfa695f0abcabe218ac0fc2d7bc72c4c3af84a52d0218a82",
+    "type": "FileHash-SHA256",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4124186290,
+    "indicator": "cosi.com.ar",
+    "type": "domain",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4124190156,
+    "indicator": "1h.vuregyy1.ru",
+    "type": "hostname",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "hostname",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c434b702367baa76c87ab9",
+    "id": 4124190162,
+    "indicator": "rs.mezi.bet",
+    "type": "hostname",
+    "created": "2025-09-12T14:56:56",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "hostname",
+    "pulse_id": "68c434b702367baa76c87ab9"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429400,
+    "indicator": "6296ae44fae279994f4b127bd08db3e1",
+    "type": "FileHash-MD5",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429404,
+    "indicator": "http://cclresources.com/",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429405,
+    "indicator": "http://chevroncorpstocks.com/",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429406,
+    "indicator": "http://conocophillips.live/",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429407,
+    "indicator": "http://conocophillips.live/app/index.html",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429408,
+    "indicator": "http://conocophils.com/index.html",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429409,
+    "indicator": "http://conocophils.com/operations/index.html",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429410,
+    "indicator": "http://pbfenergy.cc/",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429411,
+    "indicator": "http://pbfenergy.cc/.",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429412,
+    "indicator": "http://phillips66shop.com/",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429413,
+    "indicator": "https://conocophils.com/register",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429414,
+    "indicator": "https://investors.pbfenergy.com/",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429415,
+    "indicator": "https://phillips66-carros.site/",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429416,
+    "indicator": "https://phillips66-carros.site/.",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429417,
+    "indicator": "https://phillips66lubricants.ru/",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 3848441181,
+    "indicator": "https://www.pbfenergy.com/",
+    "type": "URL",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429418,
+    "indicator": "advancedownloads.com",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429419,
+    "indicator": "cclresources.com",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429420,
+    "indicator": "chevroncorpstocks.com",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429421,
+    "indicator": "chevroncvxstocks.com",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429422,
+    "indicator": "conocophillips.live",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429423,
+    "indicator": "conocophils.com",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429424,
+    "indicator": "humanenergy-company.com",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4068844661,
+    "indicator": "malware.name",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429425,
+    "indicator": "orangeoffers.click",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429426,
+    "indicator": "pbfenergy.cc",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429427,
+    "indicator": "phillips66-carros.site",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429428,
+    "indicator": "phillips66lubricants.ru",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429429,
+    "indicator": "phillips66shop.com",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 2897390742,
+    "indicator": "wwwmyphillips66card.com",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429430,
+    "indicator": "xn--conocopillips-2z0g.com",
+    "type": "domain",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429431,
+    "indicator": "conoco-2024.dev.fastspot.com",
+    "type": "hostname",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "hostname",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429432,
+    "indicator": "humanenergy-company.com.cargoxpressdelivery.com",
+    "type": "hostname",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "hostname",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429433,
+    "indicator": "investors.pbfenergy.com",
+    "type": "hostname",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "hostname",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429434,
+    "indicator": "www.humanenergy-company.com",
+    "type": "hostname",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "hostname",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 4129429435,
+    "indicator": "www.humanenergy-company.com.cargoxpressdelivery.com",
+    "type": "hostname",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "hostname",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c37a4f61a4eeb53a76aef0",
+    "id": 3848441222,
+    "indicator": "www.pbfenergy.com",
+    "type": "hostname",
+    "created": "2025-09-12T01:41:36",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "hostname",
+    "pulse_id": "68c37a4f61a4eeb53a76aef0"
+  },
+  {
+    "pulse_key": "68c32568c1f6fad2db3a2d3a",
+    "id": 4129330280,
+    "indicator": "318a1ebc0692d1d012d20d306d6634b196cc387b1f4bc38f97dd437f117c7e20",
+    "type": "FileHash-SHA256",
+    "created": "2025-09-11T19:39:21",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c32568c1f6fad2db3a2d3a"
+  },
+  {
+    "pulse_key": "68c32568c1f6fad2db3a2d3a",
+    "id": 4129330283,
+    "indicator": "www.slickvpn.com",
+    "type": "hostname",
+    "created": "2025-09-11T19:39:21",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "hostname",
+    "pulse_id": "68c32568c1f6fad2db3a2d3a"
+  },
+  {
+    "pulse_key": "68e96e29b73e5334019b8810",
+    "id": 4077707549,
+    "indicator": "157.66.26.209",
+    "type": "IPv4",
+    "created": "2025-10-10T20:35:54",
+    "content": "",
+    "title": "",
+    "description": "CC=JP ASN=ASNone",
+    "expiration": "2025-11-09T20:00:00",
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "ip",
+    "pulse_id": "68e96e29b73e5334019b8810"
+  },
+  {
+    "pulse_key": "68e96e29b73e5334019b8810",
+    "id": 4136893826,
+    "indicator": "8697103bed75b09df59d9bb3a86eca32",
+    "type": "FileHash-MD5",
+    "created": "2025-10-10T20:35:54",
+    "content": "",
+    "title": "",
+    "description": "MD5 of f6ed084aaa8ecf1b1e20dfa859e8f34c4c18b7ad7ac14dc189bc1fc4be1bd709",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68e96e29b73e5334019b8810"
+  },
+  {
+    "pulse_key": "68e96e29b73e5334019b8810",
+    "id": 4136893827,
+    "indicator": "ffd6f164c9f9248604e819b7b584c9d2907c967d",
+    "type": "FileHash-SHA1",
+    "created": "2025-10-10T20:35:54",
+    "content": "",
+    "title": "",
+    "description": "SHA1 of f6ed084aaa8ecf1b1e20dfa859e8f34c4c18b7ad7ac14dc189bc1fc4be1bd709",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68e96e29b73e5334019b8810"
+  },
+  {
+    "pulse_key": "68e96e29b73e5334019b8810",
+    "id": 4134919432,
+    "indicator": "06fc70aa08756a752546198ceb9770068a2776c5b898e5ff24af9ed4a823fd9d",
+    "type": "FileHash-SHA256",
+    "created": "2025-10-10T20:35:54",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68e96e29b73e5334019b8810"
+  },
+  {
+    "pulse_key": "68e96e29b73e5334019b8810",
+    "id": 4134919433,
+    "indicator": "f5e9e24886ec4c60f45690a0e34bae71d8a38d1c35eb04d02148cdb650dd2601",
+    "type": "FileHash-SHA256",
+    "created": "2025-10-10T20:35:54",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68e96e29b73e5334019b8810"
+  },
+  {
+    "pulse_key": "68e96e29b73e5334019b8810",
+    "id": 4134919434,
+    "indicator": "f6ed084aaa8ecf1b1e20dfa859e8f34c4c18b7ad7ac14dc189bc1fc4be1bd709",
+    "type": "FileHash-SHA256",
+    "created": "2025-10-10T20:35:54",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68e96e29b73e5334019b8810"
+  },
+  {
+    "pulse_key": "68e96e29b73e5334019b8810",
+    "id": 4134919435,
+    "indicator": "https://0x0.st/8WBr.py",
+    "type": "URL",
+    "created": "2025-10-10T20:37:00",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68e96e29b73e5334019b8810"
+  },
+  {
+    "pulse_key": "68e96e29b73e5334019b8810",
+    "id": 4134919436,
+    "indicator": "https://is.gd/s5xknuj2",
+    "type": "URL",
+    "created": "2025-10-10T20:37:00",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68e96e29b73e5334019b8810"
+  },
+  {
+    "pulse_key": "68e96e29b73e5334019b8810",
+    "id": 4134919437,
+    "indicator": "https://paste.rs/fVmzS",
+    "type": "URL",
+    "created": "2025-10-10T20:37:00",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "url",
+    "pulse_id": "68e96e29b73e5334019b8810"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011430,
+    "indicator": "03ab706b45b1190c1f14059a2b443b13",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011431,
+    "indicator": "0f37cd2f6b40649b82ba4f1921cd504b",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011432,
+    "indicator": "0f45e73eccdb485e662c49fbd4821324",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011433,
+    "indicator": "16c95842bedc3c4d1df053ea9ae188d7",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011434,
+    "indicator": "2a2900a9792f8020a9deda0d676fe989",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011435,
+    "indicator": "3ca1b4542c44834839149e080e5c0498",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011436,
+    "indicator": "537299a4e6c0f286c8a33fb444846a85",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011437,
+    "indicator": "5e3b763a9ba153edade783e8a0303177",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011438,
+    "indicator": "63a4fbb304ce66ba2b8e87fae96ab35a",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011439,
+    "indicator": "7392c09e0ac355e15b2d1236e62b6a57",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011440,
+    "indicator": "792005181a433afc9f7a8c230dcf4dfa",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011441,
+    "indicator": "7de52573ebe4073fa97fc72d9b6a9b7a",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011442,
+    "indicator": "7ec144401e983edbb5196699773c3660",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011443,
+    "indicator": "8232e0c75f4ddc01cf846646f484ab43",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011444,
+    "indicator": "8843ff02ebc51afb3c3873d97c0b9846",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011445,
+    "indicator": "95472a444f9b1120b7f31945202010c0",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011446,
+    "indicator": "97bef0d9a2ad4249db2214fd43b5353a",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011447,
+    "indicator": "a39d496e84f74c2ef5437389358f1521",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011448,
+    "indicator": "a43b957ef22072fc0b213989ab15560d",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011449,
+    "indicator": "a5fcd07b4cfba212af7e76fe88212ad7",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011450,
+    "indicator": "a69908de2c1903afb41f0c7fb14162fd",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011451,
+    "indicator": "aec8a3511907d8a27aa8082869ae80c4",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011452,
+    "indicator": "b7926de548c9c139dada2cff62cf3711",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011453,
+    "indicator": "b9bd98484c186f47999bf328bb34794c",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011454,
+    "indicator": "bae6b54f98bb23ddbb69487f8abfcd8c",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011455,
+    "indicator": "bf89b83267a9debc7b61ccb04cd329a5",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011456,
+    "indicator": "c180e98725a466c3208e2c8874abc1ed",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011457,
+    "indicator": "c1fdabb61c941053c2272c8c147670d1",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011458,
+    "indicator": "df29898c0742f6b0175e4e34b5f0755d",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011459,
+    "indicator": "df2e68fe6be163d40a21b4199033b434",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011460,
+    "indicator": "e3d8fbf45fac3793aac87568a1919cf7",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011461,
+    "indicator": "e59eaab989c5a8433852e77fb9dd7986",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011462,
+    "indicator": "eb4948c42f418325c1b8b2b79af7ef08",
+    "type": "FileHash-MD5",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "file",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011466,
+    "indicator": "51:65:5e:8e:97:fc:72:65:b1:aa:a4:26:5d:94:e2:f7:ca:e9:c9:13",
+    "type": "SSLCertFingerprint",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "ssl-cert-fingerprint",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011467,
+    "indicator": "64:30:42:df:50:ce:f0:80:e4:48:51:e7:d5:d6:f6:54:f7:72:eb:c5",
+    "type": "SSLCertFingerprint",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "ssl-cert-fingerprint",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 3418573680,
+    "indicator": "fetraa.com",
+    "type": "domain",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 2230715972,
+    "indicator": "fionamcleod.net",
+    "type": "domain",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011469,
+    "indicator": "powerontheroad.org",
+    "type": "domain",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011470,
+    "indicator": "safiasol.com",
+    "type": "domain",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011471,
+    "indicator": "sealtribute.org",
+    "type": "domain",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011472,
+    "indicator": "sinhluc.net",
+    "type": "domain",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011473,
+    "indicator": "theuklg.com",
+    "type": "domain",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  },
+  {
+    "pulse_key": "68c1d94aeea0cbf6a74fd693",
+    "id": 4129011474,
+    "indicator": "traveldog.org",
+    "type": "domain",
+    "created": "2025-09-10T20:03:10",
+    "content": "",
+    "title": "",
+    "description": "",
+    "expiration": null,
+    "is_active": 1,
+    "false_positive": {
+      "assessment": null,
+      "assessment_date": null,
+      "report_date": null
+    },
+    "slug": "domain",
+    "pulse_id": "68c1d94aeea0cbf6a74fd693"
+  }
+]

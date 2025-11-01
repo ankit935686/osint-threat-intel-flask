@@ -1,0 +1,31 @@
+{
+  "risk_distribution": {
+    "high_risk_count": 0,
+    "medium_risk_count": 1,
+    "low_risk_count": 688,
+    "info_count": 4
+  },
+  "indicator_types": {
+    "domain": 494,
+    "hash_sha256": 73,
+    "hash_md5": 51,
+    "hash_sha1": 33,
+    "unknown": 31,
+    "ip": 11
+  },
+  "geo_distribution": {
+    "RU": 5,
+    "DE": 2,
+    "KR": 1,
+    "SG": 1,
+    "CA": 1,
+    "HU": 1
+  },
+  "score_ranges": {
+    "0-20": 0,
+    "21-40": 0,
+    "41-60": 0,
+    "61-80": 0,
+    "81-100": 0
+  }
+}

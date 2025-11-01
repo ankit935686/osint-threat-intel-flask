@@ -5,6 +5,7 @@ OSINT Threat Intelligence Pipeline Runner
 
 import sys
 import os
+import json
 from pathlib import Path
 
 # Add the pipeline source directory to Python path
@@ -30,6 +31,25 @@ def main():
             print("📡 Collecting from subscribed threat feeds...")
         
         pipeline.run_pipeline(indicators)
+        
+        # Verify the summary.json file was created correctly
+        summary_path = os.path.join('pipeline', 'data', 'reports', 'summary.json')
+        if os.path.exists(summary_path):
+            print(f"✓ Summary file created: {summary_path}")
+            
+            # Check summary.json content
+            with open(summary_path, 'r') as f:
+                summary = json.load(f)
+                keys = list(summary.keys())
+                print(f"✓ Summary contains {len(keys)} keys: {', '.join(keys)}")
+                
+                # Verify critical data
+                if 'source_data' in keys:
+                    print(f"✓ Source-specific data found with {len(summary['source_data'])} sources")
+                else:
+                    print("⚠ Warning: source_data is missing from summary.json")
+        else:
+            print(f"⚠ Warning: Summary file not found at {summary_path}")
         
         print("✅ Pipeline completed successfully!")
         print("📊 Check the pipeline/data/reports/ directory for outputs")
